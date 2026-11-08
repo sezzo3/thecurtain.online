@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thecurtain.online/sitemap-index.xml
