@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/us-flights-grounded-nationwide-faa-communications-failure/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14</news:publication_date>
+      <news:title>America&#x27;s Skies Fall Silent: Longest Nationwide Flight Grounding Since 9/11 Strands Millions</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/trump-xi-putin-meet-shenzhen-first-trilateral-summit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14</news:publication_date>
+      <news:title>Three Nuclear Powers, One Room: Trump, Xi and Putin to Meet in Shenzhen in a First</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/jensen-huang-resigns-nvidia-ceo-kress-interim/</loc>
     <news:news>
       <news:publication>
