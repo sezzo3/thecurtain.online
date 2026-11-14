@@ -1,61 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://thecurtain.online/story/trump-says-iran-war-over-quickly-peace-proposal/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12</news:publication_date>
-      <news:title>Trump Says the Iran War Could End &quot;Quickly&quot; as Tehran Weighs a US Peace Proposal</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/abu-dhabi-ukraine-talks-end-prisoner-swap-no-breakthrough/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12</news:publication_date>
-      <news:title>Ukraine Talks End in Abu Dhabi With a Prisoner Swap Agreed but No Path Yet to Peace</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/pope-leo-argentina-mass-2-5-million-francis-homecoming/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12</news:publication_date>
-      <news:title>Two and a Half Million Turn Out as Pope Leo Brings Francis&#x27;s Homeland the Visit It Never Got</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/nvidia-board-prepares-oust-jensen-huang-second-affair-spy-probe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12</news:publication_date>
-      <news:title>Nvidia&#x27;s Board Prepares to Oust Jensen Huang as a Second Affair and a Spy Probe Engulf the AI Giant</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/spain-general-strike-first-14-years-housing-costs/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12</news:publication_date>
-      <news:title>Four Million Spaniards Down Tools in First General Strike in 14 Years as Housing Costs Swallow a Generation&#x27;s Pay</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/story/jensen-huang-resigns-nvidia-ceo-kress-interim/</loc>
     <news:news>
       <news:publication>
@@ -130,6 +75,39 @@
       </news:publication>
       <news:publication_date>2026-11-13</news:publication_date>
       <news:title>FAA Grounds All US Flights After Air Traffic Control Communications Failure — Second Nationwide Stop Since 9/11</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/us-iran-exchange-fire-hormuz-destroyers-tanker-seized/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14</news:publication_date>
+      <news:title>US and Iranian Forces Trade Fire in the Strait of Hormuz as Tankers Burn and a Ship Is Seized</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/anthropic-ipo-six-times-oversubscribed-biggest-listing-ever/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14</news:publication_date>
+      <news:title>Anthropic&#x27;s Record Listing Draws Six Times the Orders as Investors Chase the Biggest IPO Ever</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/huang-misled-nvidia-executives-intel-no-proof-spy-claim/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14</news:publication_date>
+      <news:title>Huang Misled Nvidia&#x27;s Top Executives About His Ties, Reuters Reports, as the Spy Case Goes Unproved</news:title>
     </news:news>
   </url>
 </urlset>
