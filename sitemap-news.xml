@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/alaska-elects-youngest-governor-kreiss-tomkins/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15</news:publication_date>
+      <news:title>Alaska Elects Its Youngest Governor Ever as Democrat Kreiss-Tomkins Wins Outright</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/drones-strike-nizhnekamsk-petrochemical-plant-tatarstan/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15</news:publication_date>
+      <news:title>Drones Torch One of Russia&#x27;s Biggest Chemical Plants as Kyiv Widens Its Strikes Deep Inside Russia</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/three-tankers-hit-mines-hormuz-iran-warns-shipping/</loc>
     <news:news>
       <news:publication>
