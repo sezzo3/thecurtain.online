@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/bahrain-intercepts-iranian-drones-us-radar-claim/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15</news:publication_date>
+      <news:title>Bahrain Says It Destroyed Iranian Drone Attacks as Tehran Claims Strike on US Radar</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/alaska-elects-youngest-governor-kreiss-tomkins/</loc>
     <news:news>
       <news:publication>
