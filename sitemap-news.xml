@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/yemen-withdraws-bab-el-mandeb-houthis-take-strait/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15</news:publication_date>
+      <news:title>Yemen Government Retreats from Bab el-Mandeb, Leaving Houthis in Command of a Vital Strait</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/bahrain-intercepts-iranian-drones-us-radar-claim/</loc>
     <news:news>
       <news:publication>
