@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/zelensky-says-us-floated-nato-for-donbas-starshield-row/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16</news:publication_date>
+      <news:title>Washington Floats NATO Membership for Donbas, Zelensky Says, as Starshield Row Deepens</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/iran-strikes-bahrain-yemen-forces-retreat-bab-el-mandeb/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16</news:publication_date>
+      <news:title>Iran Strikes US Base in Bahrain as Yemeni Forces Abandon the Bab el-Mandeb Strait</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/nvidia-bessent-demands-shakeup-huang-weighs-comeback/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16</news:publication_date>
+      <news:title>Nvidia Ordered to Explain $12bn of Chips Bound for China as Huang Weighs a Comeback</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/estonia-closes-russian-border-crossings-arson-attempt/</loc>
     <news:news>
       <news:publication>
@@ -86,61 +119,6 @@
       </news:publication>
       <news:publication_date>2026-11-15</news:publication_date>
       <news:title>SpaceX Catches a Starship Returning From Orbit for the First Time — but the Booster Is Lost</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/us-flights-grounded-nationwide-faa-communications-failure/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14</news:publication_date>
-      <news:title>America&#x27;s Skies Fall Silent: Longest Nationwide Flight Grounding Since 9/11 Strands Millions</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/trump-xi-putin-meet-shenzhen-first-trilateral-summit/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14</news:publication_date>
-      <news:title>Three Nuclear Powers, One Room: Trump, Xi and Putin to Meet in Shenzhen in a First</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/jensen-huang-resigns-nvidia-ceo-kress-interim/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14</news:publication_date>
-      <news:title>US and Iranian Forces Trade Fire in the Strait of Hormuz as Tankers Burn and a Ship Is Seized</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/anthropic-ipo-six-times-oversubscribed-biggest-listing-ever/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14</news:publication_date>
-      <news:title>Anthropic&#x27;s Record Listing Draws Six Times the Orders as Investors Chase the Biggest IPO Ever</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/huang-misled-nvidia-executives-intel-no-proof-spy-claim/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14</news:publication_date>
-      <news:title>Huang Misled Nvidia&#x27;s Top Executives About His Ties, Reuters Reports, as the Spy Case Goes Unproved</news:title>
     </news:news>
   </url>
 </urlset>
