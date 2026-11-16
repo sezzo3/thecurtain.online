@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/vulcan-rocket-fails-amazon-leo-satellites-lost/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16</news:publication_date>
+      <news:title>Vulcan Rocket Fails on Return to Flight, Destroying 40 Amazon Satellites</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/prague-hundreds-of-thousands-rally-public-media-overhaul/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16</news:publication_date>
+      <news:title>Hundreds of Thousands Rally in Prague Against Plan to Put Public Media on the State Budget</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/phuket-patong-shophouse-fire-11-dead/</loc>
     <news:news>
       <news:publication>
