@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/trump-xi-putin-trilateral-shenzhen-nuclear-talks/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17</news:publication_date>
+      <news:title>Three Leaders, One Room: Trump, Xi and Putin to Meet in Shenzhen as Nuclear Arms Top the Agenda</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/nvidia-first-earnings-call-without-huang-chip-rules-tighten/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17</news:publication_date>
+      <news:title>Nvidia Faces Investors Without Huang as Washington Closes the Chip Loophole</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/five-eu-countries-rwanda-return-hub-deportations-2027/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17</news:publication_date>
+      <news:title>Five EU States Plan a Return Hub in Rwanda for Rejected Asylum Seekers</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/ukraine-hits-crimean-bridge-record-drone-barrage/</loc>
     <news:news>
       <news:publication>
@@ -75,94 +108,6 @@
       </news:publication>
       <news:publication_date>2026-11-16</news:publication_date>
       <news:title>Nvidia Ordered to Explain $12bn of Chips Bound for China as Huang Weighs a Comeback</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/estonia-closes-russian-border-crossings-arson-attempt/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15</news:publication_date>
-      <news:title>Estonia Shuts Its Entire Russian Border After Foiled Arson Attack Blamed on the GRU</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/yemen-withdraws-bab-el-mandeb-houthis-take-strait/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15</news:publication_date>
-      <news:title>Yemen Government Retreats from Bab el-Mandeb, Leaving Houthis in Command of a Vital Strait</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/bahrain-intercepts-iranian-drones-us-radar-claim/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15</news:publication_date>
-      <news:title>Bahrain Says It Destroyed Iranian Drone Attacks as Tehran Claims Strike on US Radar</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/alaska-elects-youngest-governor-kreiss-tomkins/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15</news:publication_date>
-      <news:title>Alaska Elects Its Youngest Governor Ever as Democrat Kreiss-Tomkins Wins Outright</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/drones-strike-nizhnekamsk-petrochemical-plant-tatarstan/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15</news:publication_date>
-      <news:title>Drones Torch One of Russia&#x27;s Biggest Chemical Plants as Kyiv Widens Its Strikes Deep Inside Russia</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/three-tankers-hit-mines-hormuz-iran-warns-shipping/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15</news:publication_date>
-      <news:title>Three Tankers Strike Mines and Catch Fire in Hormuz as Iran Warns Ships to Keep Out</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/macron-warns-limiting-ukraine-aid-another-war-europe-joins-talks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15</news:publication_date>
-      <news:title>Macron Warns That Rationing Aid to Ukraine Would Mean &#x27;Another War&#x27; as Europe Wins a Seat at the Talks</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/spacex-catches-starship-orbit-first-time-booster-lost/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15</news:publication_date>
-      <news:title>SpaceX Catches a Starship Returning From Orbit for the First Time — but the Booster Is Lost</news:title>
     </news:news>
   </url>
 </urlset>
