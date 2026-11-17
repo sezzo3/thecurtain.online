@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/milburn-review-complete-system-reset-youth-unemployment/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17</news:publication_date>
+      <news:title>Milburn Demands a &#x27;Complete System Reset&#x27; to Rescue a Million Young People from Joblessness</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/robert-pattinson-named-new-james-bond-villeneuve/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17</news:publication_date>
+      <news:title>The Name&#x27;s Pattinson: Robert Pattinson Is the New James Bond</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/ukraine-second-strike-sends-crimea-bridge-into-sea/</loc>
     <news:news>
       <news:publication>
