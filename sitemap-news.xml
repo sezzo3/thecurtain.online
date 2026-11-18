@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/us-destroys-five-iranian-tankers-iran-hits-jordan-base/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Five Tankers Down, Missiles Over Jordan: The War With Iran Erupts Across the Gulf</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/ukraine-collapses-crimean-bridge-road-arch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Ukraine Brings Down the Crimean Bridge&#x27;s Road Arch Two Days Before the Great-Power Summit</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/anthropic-prices-ipo-1-4-trillion-valuation-nasdaq/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Anthropic Prices the Biggest AI Listing Ever as Investors Bet $1.4 Trillion on Claude</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/russian-an12-crashes-siberia-19-killed/</loc>
     <news:news>
       <news:publication>
@@ -75,83 +108,6 @@
       </news:publication>
       <news:publication_date>2026-11-17</news:publication_date>
       <news:title>Five EU States Plan a Return Hub in Rwanda for Rejected Asylum Seekers</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/ukraine-hits-crimean-bridge-record-drone-barrage/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Ukraine Hits Crimean Bridge in Record Drone Barrage, Kremlin Says Damage Minor</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/vulcan-rocket-fails-amazon-leo-satellites-lost/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Vulcan Rocket Fails on Return to Flight, Destroying 40 Amazon Satellites</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/prague-hundreds-of-thousands-rally-public-media-overhaul/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Hundreds of Thousands Rally in Prague Against Plan to Put Public Media on the State Budget</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/phuket-patong-shophouse-fire-11-dead/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Fire Tears Through Phuket Shophouse, Killing 11 and Injuring 16</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/zelensky-says-us-floated-nato-for-donbas-starshield-row/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Washington Floats NATO Membership for Donbas, Zelensky Says, as Starshield Row Deepens</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/iran-strikes-bahrain-yemen-forces-retreat-bab-el-mandeb/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Iran Strikes US Base in Bahrain as Yemeni Forces Abandon the Bab el-Mandeb Strait</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/nvidia-bessent-demands-shakeup-huang-weighs-comeback/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Nvidia Ordered to Explain $12bn of Chips Bound for China as Huang Weighs a Comeback</news:title>
     </news:news>
   </url>
 </urlset>
