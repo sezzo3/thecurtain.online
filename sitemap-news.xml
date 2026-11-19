@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/trump-xi-putin-hold-first-trilateral-summit-shenzhen/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19</news:publication_date>
+      <news:title>Three Leaders, One Hour, No Deal Expected: Trump, Xi and Putin Meet in Shenzhen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/iran-war-spreads-across-gulf-qeshm-kuwait-bahrain/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19</news:publication_date>
+      <news:title>The War Reaches the Gulf&#x27;s Doorstep: Iran Strikes Kuwait and Bahrain After the US Hits Qeshm Island</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/eisenkot-tapped-form-israel-government-netanyahu-sidelined/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19</news:publication_date>
+      <news:title>The General Against the Clock: Eisenkot&#x27;s Race to Replace Netanyahu Before 6 December</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/israel-crosses-yellow-line-gaza-ground-operation/</loc>
     <news:news>
       <news:publication>
@@ -75,83 +108,6 @@
       </news:publication>
       <news:publication_date>2026-11-18</news:publication_date>
       <news:title>Anthropic Prices the Biggest AI Listing Ever as Investors Bet $1.4 Trillion on Claude</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/russian-an12-crashes-siberia-19-killed/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17</news:publication_date>
-      <news:title>Russian Military Plane Crashes in Siberia, Killing All 19 on Board</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/milburn-review-complete-system-reset-youth-unemployment/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17</news:publication_date>
-      <news:title>Milburn Demands a &#x27;Complete System Reset&#x27; to Rescue a Million Young People from Joblessness</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/robert-pattinson-named-new-james-bond-villeneuve/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17</news:publication_date>
-      <news:title>The Name&#x27;s Pattinson: Robert Pattinson Is the New James Bond</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/ukraine-second-strike-sends-crimea-bridge-into-sea/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17</news:publication_date>
-      <news:title>Ukraine&#x27;s Second Strike in Two Days Sends Part of the Crimea Bridge Into the Sea</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/trump-xi-putin-trilateral-shenzhen-nuclear-talks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17</news:publication_date>
-      <news:title>Three Leaders, One Room: Trump, Xi and Putin to Meet in Shenzhen as Nuclear Arms Top the Agenda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/nvidia-first-earnings-call-without-huang-chip-rules-tighten/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17</news:publication_date>
-      <news:title>Nvidia Faces Investors Without Huang as Washington Closes the Chip Loophole</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/five-eu-countries-rwanda-return-hub-deportations-2027/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17</news:publication_date>
-      <news:title>Five EU States Plan a Return Hub in Rwanda for Rejected Asylum Seekers</news:title>
     </news:news>
   </url>
 </urlset>
