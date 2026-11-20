@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/icj-rules-myanmar-committed-genocide-rohingya/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20</news:publication_date>
+      <news:title>The World Court Calls It Genocide: Myanmar Found Guilty Over the Rohingya</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/trump-xi-putin-sign-peace-declaration-shenzhen/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20</news:publication_date>
+      <news:title>A Peace Declaration With No Peace in It: Trump, Xi and Putin Leave Shenzhen With Words, Not Deals</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/anthropic-record-107-billion-ipo-nasdaq-debut/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20</news:publication_date>
+      <news:title>The $107 Billion Debut: Anthropic&#x27;s Record Listing Lights Up a Falling Market</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/trump-xi-putin-peace-declaration-shenzhen-summit/</loc>
     <news:news>
       <news:publication>
@@ -75,83 +108,6 @@
       </news:publication>
       <news:publication_date>2026-11-19</news:publication_date>
       <news:title>The General Against the Clock: Eisenkot&#x27;s Race to Replace Netanyahu Before 6 December</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/israel-crosses-yellow-line-gaza-ground-operation/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18</news:publication_date>
-      <news:title>Israel Sends Tanks Across Gaza&#x27;s Yellow Line in First Ground Crossing Since the Ceasefire</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/iran-hits-us-base-kuwait-renews-bahrain-attacks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18</news:publication_date>
-      <news:title>Iran Hits US Air Base in Kuwait and Renews Attacks on Bahrain in Retaliation for American Strikes</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/peltola-wins-alaska-senate-democrats-56-44-majority/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18</news:publication_date>
-      <news:title>Peltola Takes Alaska and Completes a 56-Seat Democratic Senate Majority</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/uk-inflation-3-6-record-diesel-petrol-prices/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18</news:publication_date>
-      <news:title>Record Diesel Prices Push UK Inflation to 3.6%, Its Highest in a Year</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/us-destroys-five-iranian-tankers-iran-hits-jordan-base/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18</news:publication_date>
-      <news:title>Five Tankers Down, Missiles Over Jordan: The War With Iran Erupts Across the Gulf</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/ukraine-collapses-crimean-bridge-road-arch/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18</news:publication_date>
-      <news:title>Ukraine Brings Down the Crimean Bridge&#x27;s Road Arch Two Days Before the Great-Power Summit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/anthropic-prices-ipo-1-4-trillion-valuation-nasdaq/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18</news:publication_date>
-      <news:title>Anthropic Prices the Biggest AI Listing Ever as Investors Bet $1.4 Trillion on Claude</news:title>
     </news:news>
   </url>
 </urlset>
