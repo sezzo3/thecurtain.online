@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/russia-massive-missile-attack-kyiv-bridges/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20</news:publication_date>
+      <news:title>Hours After the Peace Photo, Russia Rains Missiles on Kyiv</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/burnham-eu-reset-deal-youth-mobility-brussels/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20</news:publication_date>
+      <news:title>Britain and the EU Strike a Brexit Reset — but Tuition Fees Hold Up the Signature</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/icj-rules-myanmar-committed-genocide-rohingya/</loc>
     <news:news>
       <news:publication>
