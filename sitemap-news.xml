@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/nasdaq-wipes-out-2026-gains-ai-rout-nvidia-sec-probe/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21</news:publication_date>
+      <news:title>The AI Party Ends in a Rout: Nasdaq Wipes Out Its 2026 Gains as Nvidia Crashes</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/peru-6-7-earthquake-shakes-junin-lima-no-deaths/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21</news:publication_date>
+      <news:title>The Ground Shook Across Half of Peru — and Almost Nothing Broke</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/cop31-climate-talks-overtime-fossil-fuels-dropped/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21</news:publication_date>
+      <news:title>The Climate Summit That Forgot Fossil Fuels: COP31 Stumbles Into Overtime</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/russian-missiles-crash-poland-tusk-deliberate-provocation/</loc>
     <news:news>
       <news:publication>
@@ -64,83 +97,6 @@
       </news:publication>
       <news:publication_date>2026-11-20</news:publication_date>
       <news:title>The $107 Billion Debut: Anthropic&#x27;s Record Listing Lights Up a Falling Market</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/trump-xi-putin-peace-declaration-shenzhen-summit/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19</news:publication_date>
-      <news:title>Trump, Xi and Putin Sign Joint &#x27;Peace Declaration&#x27; in Shenzhen — With No Word on Ukraine</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/icj-finds-myanmar-guilty-rohingya-genocide/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19</news:publication_date>
-      <news:title>A First for the World Court: Myanmar Found Guilty of Genocide Against the Rohingya</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/iea-data-centre-emissions-jump-70-percent-ai-demand/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19</news:publication_date>
-      <news:title>The AI Boom&#x27;s Dirty Secret: Data Centres Set to Drive Emissions 70% Higher by 2030</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/houthi-missile-hits-pif-tower-riyadh-financial-district/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19</news:publication_date>
-      <news:title>Houthi Missile Hits PIF Tower in Riyadh, the Second Strike on the Financial District in Eleven Days</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/trump-xi-putin-hold-first-trilateral-summit-shenzhen/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19</news:publication_date>
-      <news:title>Three Leaders, One Hour, No Deal Expected: Trump, Xi and Putin Meet in Shenzhen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/iran-war-spreads-across-gulf-qeshm-kuwait-bahrain/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19</news:publication_date>
-      <news:title>The War Reaches the Gulf&#x27;s Doorstep: Iran Strikes Kuwait and Bahrain After the US Hits Qeshm Island</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/eisenkot-tapped-form-israel-government-netanyahu-sidelined/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19</news:publication_date>
-      <news:title>The General Against the Clock: Eisenkot&#x27;s Race to Replace Netanyahu Before 6 December</news:title>
     </news:news>
   </url>
 </urlset>
