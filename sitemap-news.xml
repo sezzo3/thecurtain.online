@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/mexico-captures-el-chapo-isidro-sinaloa-violence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21</news:publication_date>
+      <news:title>Mexico Captures FBI Most-Wanted Cartel Boss &#x27;El Chapo Isidro&#x27; — and Sinaloa Erupts</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/sparta-ii-drone-attack-gulf-finland-fire/</loc>
     <news:news>
       <news:publication>
