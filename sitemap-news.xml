@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/fbi-ncic-database-hacked-usda-systems-offline/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21</news:publication_date>
+      <news:title>Hackers Breach the FBI&#x27;s Crime Database as a Cyberattack Knocks America&#x27;s Farm Payments Offline</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/nasdaq-wipes-out-2026-gains-ai-rout-nvidia-sec-probe/</loc>
     <news:news>
       <news:publication>
