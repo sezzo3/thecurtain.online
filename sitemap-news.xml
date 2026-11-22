@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/kryvyi-rih-triple-tap-poland-nato-response/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22</news:publication_date>
+      <news:title>A &#x27;Triple-Tap&#x27; in Zelenskyy&#x27;s Hometown Kills a Child and a Paramedic as NATO Answers the Missiles Over Poland</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/iran-f16-claim-bahrain-us-bases-strikes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22</news:publication_date>
+      <news:title>Tehran Says It Hit an American Fighter Jet. Washington Says It Never Happened — Then the Missiles Flew at Bahrain</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/cop31-final-package-vote-fossil-fuels-absent/</loc>
     <news:news>
       <news:publication>
@@ -31,94 +53,6 @@
       </news:publication>
       <news:publication_date>2026-11-22</news:publication_date>
       <news:title>A Rapper, a Gang and a Diplomat&#x27;s Expulsion: Denmark Accuses Russia of a Murder Plot on Its Soil</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/mexico-captures-el-chapo-isidro-sinaloa-violence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21</news:publication_date>
-      <news:title>Mexico Captures FBI Most-Wanted Cartel Boss &#x27;El Chapo Isidro&#x27; — and Sinaloa Erupts</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/sparta-ii-drone-attack-gulf-finland-fire/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21</news:publication_date>
-      <news:title>Drones Set a Sanctioned Russian Military Ship Ablaze in the Gulf of Finland — and It Drifted Into Finnish Waters</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/gaza-floods-tents-held-border-winter-crisis/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21</news:publication_date>
-      <news:title>The Tents Are Drowning: Gaza&#x27;s Floods Leave Families in Water While 150,000 Tents Wait at the Border</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/california-earthquake-swarm-san-andreas-los-angeles/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21</news:publication_date>
-      <news:title>The Ground Would Not Sit Still: A Night of Tremors Along the San Andreas Puts California on Edge</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/fbi-ncic-database-hacked-usda-systems-offline/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21</news:publication_date>
-      <news:title>Hackers Breach the FBI&#x27;s Crime Database as a Cyberattack Knocks America&#x27;s Farm Payments Offline</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/nasdaq-wipes-out-2026-gains-ai-rout-nvidia-sec-probe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21</news:publication_date>
-      <news:title>The AI Party Ends in a Rout: Nasdaq Wipes Out Its 2026 Gains as Nvidia Crashes</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/peru-6-7-earthquake-shakes-junin-lima-no-deaths/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21</news:publication_date>
-      <news:title>The Ground Shook Across Half of Peru — and Almost Nothing Broke</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/cop31-climate-talks-overtime-fossil-fuels-dropped/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21</news:publication_date>
-      <news:title>The Climate Summit That Forgot Fossil Fuels: COP31 Stumbles Into Overtime</news:title>
     </news:news>
   </url>
 </urlset>
