@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/cop31-final-package-vote-fossil-fuels-absent/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22</news:publication_date>
+      <news:title>COP31 Puts Its Final Deal to the Vote — Without a Single Mention of Fossil Fuels</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/tankers-struck-strait-of-hormuz-khasab-attacks-surge/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22</news:publication_date>
+      <news:title>Tankers Under Fire Again as Attacks in the Strait of Hormuz Reach a New Peak</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/denmark-accuses-russia-assassination-plot-kyivstoner/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22</news:publication_date>
+      <news:title>A Rapper, a Gang and a Diplomat&#x27;s Expulsion: Denmark Accuses Russia of a Murder Plot on Its Soil</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/mexico-captures-el-chapo-isidro-sinaloa-violence/</loc>
     <news:news>
       <news:publication>
@@ -86,72 +119,6 @@
       </news:publication>
       <news:publication_date>2026-11-21</news:publication_date>
       <news:title>The Climate Summit That Forgot Fossil Fuels: COP31 Stumbles Into Overtime</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/russian-missiles-crash-poland-tusk-deliberate-provocation/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20</news:publication_date>
-      <news:title>Russian Missiles Crash in Poland as Tusk Calls It a &quot;Deliberate Provocation&quot;</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/russia-massive-missile-attack-kyiv-bridges/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20</news:publication_date>
-      <news:title>Hours After the Peace Photo, Russia Rains Missiles on Kyiv</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/burnham-eu-reset-deal-youth-mobility-brussels/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20</news:publication_date>
-      <news:title>Britain and the EU Strike a Brexit Reset — but Tuition Fees Hold Up the Signature</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/icj-rules-myanmar-committed-genocide-rohingya/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20</news:publication_date>
-      <news:title>The World Court Calls It Genocide: Myanmar Found Guilty Over the Rohingya</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/trump-xi-putin-sign-peace-declaration-shenzhen/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20</news:publication_date>
-      <news:title>A Peace Declaration With No Peace in It: Trump, Xi and Putin Leave Shenzhen With Words, Not Deals</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/anthropic-record-107-billion-ipo-nasdaq-debut/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20</news:publication_date>
-      <news:title>The $107 Billion Debut: Anthropic&#x27;s Record Listing Lights Up a Falling Market</news:title>
     </news:news>
   </url>
 </urlset>
