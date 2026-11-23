@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/burnham-eu-deal-backlash-tories-vow-scrap/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23</news:publication_date>
+      <news:title>Tories Vow to Scrap Burnham&#x27;s EU Deal as May Declares &quot;Brexit Is Done&quot;</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/nhs-ai-breast-screening-trial-edith-700000-women/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23</news:publication_date>
+      <news:title>AI to Read Half of Britain&#x27;s Breast Scans in the World&#x27;s Largest Trial of Its Kind</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/bepicolombo-reaches-mercury-orbit-thruster-glitch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23</news:publication_date>
+      <news:title>After Eight Years and 10 Billion Kilometres, BepiColombo Reaches Mercury — With a Glitch</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/ukrainian-sea-drones-hit-russian-corvette-merkury-benghazi/</loc>
     <news:news>
       <news:publication>
