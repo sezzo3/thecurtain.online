@@ -1,0 +1,7 @@
+/* Keep the inline support link after the article; leave mobile text unobscured. */
+@media (max-width: 600px) {
+  .floatingchat-container-wrap,
+  .floatingchat-container-wrap-mobi {
+    display: none !important;
+  }
+}
