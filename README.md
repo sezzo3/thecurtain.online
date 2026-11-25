@@ -2,7 +2,7 @@
 
 **News with context, clarity and care.**
 
-[thecurtain.online](https://thecurtain.online) is an independent digital news publication covering world affairs, politics, business, technology and society. It is run by one person: no newsroom, no sponsors, no salary behind it. Every story is researched, written and published independently.
+[thecurtain.online](https://thecurtain.online) is an independent digital news publication covering world affairs, politics, business, technology and society. It is independently owned and operated by its founder and editor, Sezgin Baktiaya, based in London, United Kingdom. He writes the articles and is responsible for publication decisions.
 
 ## Why I built this
 
@@ -66,7 +66,7 @@ If a material factual error is confirmed, I correct it and explain significant c
 ### Before each deployment
 
 Run `python3 scripts/prepare_publish.py` after adding or updating stories. This
-adds the shared article engagement script and rebuilds all language sitemaps
+maintains author and publisher identity, correction links and four RSS feeds, adds the shared article engagement script and rebuilds all language sitemaps
 from every canonical, indexable article, including archived stories. The
 20-story limit applies to each homepage only. The news sitemap includes the
 current and previous day's news in all available languages.

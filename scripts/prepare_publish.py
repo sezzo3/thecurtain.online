@@ -2,12 +2,14 @@
 """Add shared article metrics, then regenerate complete publication sitemaps."""
 import re
 from update_sitemaps import ROOT, main as update_sitemaps
+from prepare_identity import main as prepare_identity
 
 TAG = '<script defer src="/assets/article-metrics.js?v=20261125"></script>'
 STYLE = '<link rel="stylesheet" href="/assets/article-experience.css?v=20261125">'
 
 
 def main():
+    prepare_identity()
     added = 0
     for path in ROOT.glob('**/story/*/index.html'):
         text = path.read_text()

@@ -122,8 +122,7 @@ function redirectWithCookie(url, status, lang) {
   return setLangCookie(res, lang);
 }
 
-export default {
-  async fetch(request, env) {
+async function serveSite(request, env) {
     const url = new URL(request.url);
     const path = url.pathname;
 
@@ -198,5 +197,25 @@ export default {
       return out;
     }
     return res;
+}
+
+export default {
+  async fetch(request, env) {
+    const response = await serveSite(request, env);
+    const result = new Response(response.body, response);
+    const url = new URL(request.url);
+    result.headers.set('X-Content-Type-Options', 'nosniff');
+    result.headers.set('Referrer-Policy', 'strict-origin-when-cross-origin');
+    // Start HSTS on the publication's HTTPS hosts only. Do not extend it to
+    // unrelated subdomains or the Pages preview domain.
+    if (url.protocol === 'https:' &&
+        ['thecurtain.online', 'www.thecurtain.online'].includes(url.hostname)) {
+      result.headers.set('Strict-Transport-Security', 'max-age=2592000');
+    }
+    if (/^\/(?:tr\/|de\/|es\/)?rss\.xml$/.test(url.pathname) && response.status === 200) {
+      result.headers.set('Content-Type', 'application/rss+xml; charset=utf-8');
+      result.headers.set('Cache-Control', 'public, max-age=300, must-revalidate');
+    }
+    return result;
   },
 };
