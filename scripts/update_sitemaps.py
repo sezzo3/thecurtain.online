@@ -109,6 +109,12 @@ def main():
         previous = {item.findtext(f"{{{SM}}}loc"): item.findtext(f"{{{SM}}}lastmod") for item in old}
         # Preserve the established non-article URL scope; app policies are separate.
         urls = {url for url in previous if "/story/" not in url}
+        # Include the publisher's public identity and AI disclosure pages when
+        # present; keep unrelated app policies outside the news sitemap scope.
+        for relative in ("author/sezgin-baktiaya/index.html", "ai-transparency/index.html"):
+            institutional = ROOT / prefix / relative
+            if institutional.is_file():
+                urls.add(url_for(institutional))
         metadata = {}
         for path in sorted((ROOT / prefix / "story").glob("*/index.html")):
             page = Page(path)
