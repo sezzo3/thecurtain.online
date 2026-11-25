@@ -1,6 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/de/story/cairo-ring-road-fuel-tanker-fire-31-dead/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25</news:publication_date>
+      <news:title>Tanklastzug explodiert auf Kairos Ring Road: Mindestens 31 Tote</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/de/story/chen-jining-shanghai-party-chief-xi-purge-politburo/</loc>
     <news:news>
       <news:publication>
@@ -119,6 +130,17 @@
       </news:publication>
       <news:publication_date>2026-11-24</news:publication_date>
       <news:title>Zwei Bundesstaaten verklagen Musks SpaceX wegen der Flut sexualisierter Deepfakes von Grok</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/es/story/cairo-ring-road-fuel-tanker-fire-31-dead/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25</news:publication_date>
+      <news:title>Un camión cisterna explota en la Ring Road de El Cairo: al menos 31 muertos</news:title>
     </news:news>
   </url>
   <url>
@@ -243,6 +265,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://thecurtain.online/story/cairo-ring-road-fuel-tanker-fire-31-dead/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25</news:publication_date>
+      <news:title>Fuel Tanker Crash Ignites Massive Fire on Cairo's Ring Road, Killing at Least 31</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/chen-jining-shanghai-party-chief-xi-purge-politburo/</loc>
     <news:news>
       <news:publication>
@@ -361,6 +394,17 @@
       </news:publication>
       <news:publication_date>2026-11-24</news:publication_date>
       <news:title>Two States Sue Musk's SpaceX Over Grok's Flood of Sexualised Deepfakes</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/tr/story/cairo-ring-road-fuel-tanker-fire-31-dead/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25</news:publication_date>
+      <news:title>Kahire Çevre Yolu'nda Akaryakıt Tankeri Alev Aldı: En Az 31 Ölü</news:title>
     </news:news>
   </url>
   <url>
