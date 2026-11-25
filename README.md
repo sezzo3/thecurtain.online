@@ -63,6 +63,21 @@ If a material factual error is confirmed, I correct it and explain significant c
 
 ## The site
 
+### Before each deployment
+
+Run `python3 scripts/prepare_publish.py` after adding or updating stories. This
+adds the shared article engagement script and rebuilds all language sitemaps
+from every canonical, indexable article, including archived stories. The
+20-story limit applies to each homepage only. The news sitemap includes the
+current and previous day's news in all available languages.
+
+The existing Google tag receives `article_open` on an article visit and
+`article_read` after at least 30 seconds with the article visible and at least
+50% of the article reached. This is an engagement threshold, not proof that a
+visitor read every word. The script does not send article text or personal
+details and does not create duplicate page views. Configure `article_read` as
+a GA4 key event after confirming that it is received.
+
 - **Live:** [thecurtain.online](https://thecurtain.online)
 - **Languages:** English, Turkish, German, Spanish
 - **Stack:** a static site, deployed on Cloudflare Pages
