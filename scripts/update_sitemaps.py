@@ -9,6 +9,7 @@ import json
 from datetime import date, datetime, timedelta
 from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
 
@@ -26,6 +27,7 @@ class Page(HTMLParser):
         self.canonical = None
         self.robots = ""
         self.schemas = []
+        self.story_links = []
         self.json_buffer = None
         self.feed(path.read_text())
 
@@ -35,6 +37,10 @@ class Page(HTMLParser):
             self.canonical = attrs.get("href")
         if tag == "meta" and attrs.get("name", "").lower() == "robots":
             self.robots = attrs.get("content", "").lower()
+        if tag == "a" and {"card", "hero"}.intersection((attrs.get("class") or "").split()):
+            href = attrs.get("href") or ""
+            if "/story/" in href:
+                self.story_links.append(urljoin(ORIGIN, href))
         if tag == "script" and attrs.get("type") == "application/ld+json":
             self.json_buffer = ""
 
@@ -60,20 +66,44 @@ def url_path(url):
     return ROOT / url[len(ORIGIN):].strip("/") / "index.html"
 
 
-def emit(path, tree):
+def emit(path, tree, check, stale):
     ET.indent(tree, space="  ")
-    path.write_bytes(ET.tostring(tree, encoding="UTF-8", xml_declaration=True) + b"\n")
+    document = ET.tostring(tree, encoding="UTF-8", xml_declaration=True) + b"\n"
+    if check:
+        actual = ET.parse(path)
+        ET.indent(actual, space="  ")
+        if ET.tostring(actual.getroot(), encoding="UTF-8", xml_declaration=True) + b"\n" != document:
+            stale.append(path.name)
+        return
+    path.write_bytes(document)
+
+
+def verify_navigation(prefix):
+    home = ROOT / prefix / "index.html"
+    archive = ROOT / prefix / "archive/index.html"
+    for path in (home, archive):
+        links = Page(path).story_links
+        if len(links) != len(set(links)):
+            raise ValueError(f"Repeated story cards: {path.relative_to(ROOT)}")
+        if path == home and len(links) != 20:
+            raise ValueError(f"Expected 20 story cards: {path.relative_to(ROOT)}")
+        for url in links:
+            if not url_path(url).is_file():
+                raise ValueError(f"Story card points to a retired or missing page: {url}")
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--date", type=date.fromisoformat,
                         default=datetime.now(ZoneInfo("Europe/London")).date())
+    parser.add_argument("--check", action="store_true", help="verify existing sitemaps without writing")
     args = parser.parse_args()
     articles = []
     summary = {}
+    stale = []
     for language in ("en", "tr", "de", "es"):
         prefix = "" if language == "en" else language
+        verify_navigation(prefix)
         sitemap_path = ROOT / ("sitemap-0.xml" if language == "en" else f"sitemap-{language}.xml")
         old = ET.parse(sitemap_path).getroot()
         previous = {item.findtext(f"{{{SM}}}loc"): item.findtext(f"{{{SM}}}lastmod") for item in old}
@@ -104,7 +134,7 @@ def main():
             modified = modified or previous.get(url)
             if modified:
                 ET.SubElement(element, f"{{{SM}}}lastmod").text = modified
-        emit(sitemap_path, document)
+        emit(sitemap_path, document, args.check, stale)
         summary[language] = {"urls": len(urls), "articles": len(metadata),
                              "added_articles": len(set(metadata) - set(previous))}
 
@@ -130,8 +160,10 @@ def main():
         count += 1
     if count > 1000:
         raise ValueError("News sitemap must be split before exceeding 1000 URLs")
-    emit(news_path, document)
+    emit(news_path, document, args.check, stale)
     summary["news"] = {"urls": count, "date": args.date.isoformat()}
+    if stale:
+        raise SystemExit("Regenerate stale sitemaps with scripts/prepare_publish.py: " + ", ".join(stale))
     print(json.dumps(summary, indent=2))
 
 
