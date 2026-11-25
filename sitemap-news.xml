@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/hormuz-tankers-mines-iran-tightens-grip-qatar-talks/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25</news:publication_date>
+      <news:title>Two More Tankers Burn in the Strait of Hormuz as Iran Vows to Tighten Its Grip — and Qatar Races to Keep Talks Alive</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/nvidia-shares-fall-huang-trump-lawmakers-congress/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25</news:publication_date>
+      <news:title>Nvidia&#x27;s Comeback Rally Fades as Lawmakers Demand Answers on Trump&#x27;s Role — and the Attorney General Dodges</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/huawei-convicted-us-criminal-trial-trade-secrets-iran/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25</news:publication_date>
+      <news:title>After Eight Years, a Brooklyn Jury Finds Huawei Guilty of Fraud and Trade-Secret Theft — but Not Racketeering</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/chen-jining-shanghai-party-chief-xi-purge-politburo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25</news:publication_date>
+      <news:title>Xi&#x27;s Purge Claims Its Biggest Name Yet: Shanghai Boss Chen Jining Under Investigation</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25</news:publication_date>
+      <news:title>Trump Readies a New Tariff Blitz on Sixteen Trading Partners as the Old Duties Face the Courts</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/sanofi-buys-insmed-41-billion-lung-drugs-deal/</loc>
     <news:news>
       <news:publication>
@@ -53,61 +108,6 @@
       </news:publication>
       <news:publication_date>2026-11-24</news:publication_date>
       <news:title>Russian Jets Trigger a Shelter Alert on Ulleung Island — Then Seoul&#x27;s Own Messages Contradict Each Other</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/indonesia-candy-factory-fire-cikande-24-killed/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23</news:publication_date>
-      <news:title>Twenty-Four Dead and Dozens Still Missing After Fire Guts Indonesian Candy Factory</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/democrats-clinch-258-seats-largest-house-majority-1992/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23</news:publication_date>
-      <news:title>Democrats Clinch 258 House Seats, Their Largest Majority Since 1992</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/burnham-eu-deal-backlash-tories-vow-scrap/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23</news:publication_date>
-      <news:title>Tories Vow to Scrap Burnham&#x27;s EU Deal as May Declares &quot;Brexit Is Done&quot;</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/nhs-ai-breast-screening-trial-edith-700000-women/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23</news:publication_date>
-      <news:title>AI to Read Half of Britain&#x27;s Breast Scans in the World&#x27;s Largest Trial of Its Kind</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/bepicolombo-reaches-mercury-orbit-thruster-glitch/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23</news:publication_date>
-      <news:title>After Eight Years and 10 Billion Kilometres, BepiColombo Reaches Mercury — With a Glitch</news:title>
     </news:news>
   </url>
 </urlset>
