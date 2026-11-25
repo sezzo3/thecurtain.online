@@ -64,6 +64,47 @@ const STATIC_REDIRECTS = {
   '/covers/iran-no-limits-gulf-countdown.png': '/covers/iran-no-limits-gulf-countdown.webp',
 };
 
+// Consolidated articles keep their existing language and query string.
+const STORY_REDIRECTS = {
+  '/de/story/america-turns-blue-democrats-seize-congress-midterm-rout/': '/de/story/democrats-seize-both-chambers-congress-midterm-rout/',
+  '/de/story/democrats-sweep-congress-midterms-trump-rebuke/': '/de/story/democrats-seize-both-chambers-congress-midterm-rout/',
+  '/de/story/icj-rules-myanmar-committed-genocide-rohingya/': '/de/story/icj-finds-myanmar-guilty-rohingya-genocide/',
+  '/de/story/krakow-shooting-main-market-square-five-killed/': '/de/story/krakow-main-square-nine-dead/',
+  '/de/story/trump-xi-putin-hold-first-trilateral-summit-shenzhen/': '/de/story/trump-xi-putin-meet-shenzhen-first-trilateral-summit/',
+  '/de/story/trump-xi-putin-sign-peace-declaration-shenzhen/': '/de/story/trump-xi-putin-peace-declaration-shenzhen-summit/',
+  '/de/story/trump-xi-putin-trilateral-shenzhen-nuclear-talks/': '/de/story/trump-xi-putin-meet-shenzhen-first-trilateral-summit/',
+  '/de/story/ukraine-collapses-crimean-bridge-road-arch/': '/de/story/ukraine-second-strike-sends-crimea-bridge-into-sea/',
+  '/de/story/us-flights-grounded-nationwide-faa-communications-failure/': '/de/story/faa-nationwide-ground-stop-flights-halted/',
+  '/es/story/america-turns-blue-democrats-seize-congress-midterm-rout/': '/es/story/democrats-seize-both-chambers-congress-midterm-rout/',
+  '/es/story/democrats-sweep-congress-midterms-trump-rebuke/': '/es/story/democrats-seize-both-chambers-congress-midterm-rout/',
+  '/es/story/icj-rules-myanmar-committed-genocide-rohingya/': '/es/story/icj-finds-myanmar-guilty-rohingya-genocide/',
+  '/es/story/krakow-shooting-main-market-square-five-killed/': '/es/story/krakow-main-square-nine-dead/',
+  '/es/story/trump-xi-putin-hold-first-trilateral-summit-shenzhen/': '/es/story/trump-xi-putin-meet-shenzhen-first-trilateral-summit/',
+  '/es/story/trump-xi-putin-sign-peace-declaration-shenzhen/': '/es/story/trump-xi-putin-peace-declaration-shenzhen-summit/',
+  '/es/story/trump-xi-putin-trilateral-shenzhen-nuclear-talks/': '/es/story/trump-xi-putin-meet-shenzhen-first-trilateral-summit/',
+  '/es/story/ukraine-collapses-crimean-bridge-road-arch/': '/es/story/ukraine-second-strike-sends-crimea-bridge-into-sea/',
+  '/es/story/us-flights-grounded-nationwide-faa-communications-failure/': '/es/story/faa-nationwide-ground-stop-flights-halted/',
+  '/story/america-turns-blue-democrats-seize-congress-midterm-rout/': '/story/democrats-seize-both-chambers-congress-midterm-rout/',
+  '/story/democrats-sweep-congress-midterms-trump-rebuke/': '/story/democrats-seize-both-chambers-congress-midterm-rout/',
+  '/story/icj-rules-myanmar-committed-genocide-rohingya/': '/story/icj-finds-myanmar-guilty-rohingya-genocide/',
+  '/story/krakow-shooting-main-market-square-five-killed/': '/story/krakow-main-square-nine-dead/',
+  '/story/spain-toledo-high-speed-train-collision/': '/story/spain-counts-69-dead-train-crash-investigation/',
+  '/story/trump-xi-putin-hold-first-trilateral-summit-shenzhen/': '/story/trump-xi-putin-meet-shenzhen-first-trilateral-summit/',
+  '/story/trump-xi-putin-sign-peace-declaration-shenzhen/': '/story/trump-xi-putin-peace-declaration-shenzhen-summit/',
+  '/story/trump-xi-putin-trilateral-shenzhen-nuclear-talks/': '/story/trump-xi-putin-meet-shenzhen-first-trilateral-summit/',
+  '/story/ukraine-collapses-crimean-bridge-road-arch/': '/story/ukraine-second-strike-sends-crimea-bridge-into-sea/',
+  '/story/us-flights-grounded-nationwide-faa-communications-failure/': '/story/faa-nationwide-ground-stop-flights-halted/',
+  '/tr/story/america-turns-blue-democrats-seize-congress-midterm-rout/': '/tr/story/democrats-seize-both-chambers-congress-midterm-rout/',
+  '/tr/story/democrats-sweep-congress-midterms-trump-rebuke/': '/tr/story/democrats-seize-both-chambers-congress-midterm-rout/',
+  '/tr/story/icj-rules-myanmar-committed-genocide-rohingya/': '/tr/story/icj-finds-myanmar-guilty-rohingya-genocide/',
+  '/tr/story/krakow-shooting-main-market-square-five-killed/': '/tr/story/krakow-main-square-nine-dead/',
+  '/tr/story/trump-xi-putin-hold-first-trilateral-summit-shenzhen/': '/tr/story/trump-xi-putin-meet-shenzhen-first-trilateral-summit/',
+  '/tr/story/trump-xi-putin-sign-peace-declaration-shenzhen/': '/tr/story/trump-xi-putin-peace-declaration-shenzhen-summit/',
+  '/tr/story/trump-xi-putin-trilateral-shenzhen-nuclear-talks/': '/tr/story/trump-xi-putin-meet-shenzhen-first-trilateral-summit/',
+  '/tr/story/ukraine-collapses-crimean-bridge-road-arch/': '/tr/story/ukraine-second-strike-sends-crimea-bridge-into-sea/',
+  '/tr/story/us-flights-grounded-nationwide-faa-communications-failure/': '/tr/story/faa-nationwide-ground-stop-flights-halted/',
+};
+
 const BOT_RE = /bot|crawl|spider|slurp|facebookexternalhit|twitterbot|linkedinbot|whatsapp|telegrambot|googlebot|bingbot|yandex|duckduckbot|baiduspider|facebot|ia_archiver|ahrefsbot|semrushbot|mj12bot|dotbot|petalbot/i;
 
 function setLangCookie(res, lang) {
@@ -85,6 +126,14 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     const path = url.pathname;
+
+    const articlePath = path.replace(/\/index\.html$/, '/').replace(/\/?$/, '/');
+    const storyDestination = STORY_REDIRECTS[articlePath];
+    if (storyDestination) {
+      url.pathname = storyDestination;
+      if (url.hostname === 'www.thecurtain.online') url.hostname = 'thecurtain.online';
+      return Response.redirect(url.toString(), 301);
+    }
 
     // 0. Canonical host: www -> apex, 301, path and query preserved.
     // Runs first so the geo/language logic below always sees the apex
