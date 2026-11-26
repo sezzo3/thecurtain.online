@@ -9,6 +9,30 @@
     <ttl>60</ttl>
     <atom:link href="https://thecurtain.online/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Trump Unveils New Tariffs on Fourteen Trading Partners, Rebuilding His Trade Wall on Firmer Legal Ground</title>
+      <link>https://thecurtain.online/story/trump-unveils-new-tariffs-14-partners-section-301/</link>
+      <guid isPermaLink="true">https://thecurtain.online/story/trump-unveils-new-tariffs-14-partners-section-301/</guid>
+      <description>The Trump administration unveiled proposed tariffs on 14 trading partners under a Section 301 probe into excess industrial capacity, with rates of up to 40% capped at levels agreed in trade deals — and a public hearing set for January.</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-26</dc:date>
+    </item>
+    <item>
+      <title>Israeli Judges Urge Prosecutors to Drop the Bribery Case Against Netanyahu — and Rethink a Second</title>
+      <link>https://thecurtain.online/story/netanyahu-judges-urge-dropping-bribery-case-4000/</link>
+      <guid isPermaLink="true">https://thecurtain.online/story/netanyahu-judges-urge-dropping-bribery-case-4000/</guid>
+      <description>Judges in Jerusalem recommended prosecutors drop the bribery charge against Prime Minister Benjamin Netanyahu, saying a conviction was unlikely, in a major turn for a trial that began in 2020.</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-26</dc:date>
+    </item>
+    <item>
+      <title>Wall Street's AI Sell-Off Deepens Before Thanksgiving as Nvidia Slides and Fear Spikes</title>
+      <link>https://thecurtain.online/story/wall-street-ai-selloff-nasdaq-plunge-thanksgiving/</link>
+      <guid isPermaLink="true">https://thecurtain.online/story/wall-street-ai-selloff-nasdaq-plunge-thanksgiving/</guid>
+      <description>Wall Street suffered another bruising session as the Nasdaq plunged as much as 4.7% before recovering, with Nvidia sliding and fear gauges spiking ahead of the Thanksgiving break.</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-26</dc:date>
+    </item>
+    <item>
       <title>Fuel Tanker Crash Ignites Massive Fire on Cairo's Ring Road, Killing at Least 31</title>
       <link>https://thecurtain.online/story/cairo-ring-road-fuel-tanker-fire-31-dead/</link>
       <guid isPermaLink="true">https://thecurtain.online/story/cairo-ring-road-fuel-tanker-fire-31-dead/</guid>
@@ -143,30 +167,6 @@
       <description>After an eight-year, 10-billion-kilometre journey, the European-Japanese BepiColombo spacecraft has entered orbit around Mercury — but ESA says a thruster burn during the arrival manoeuvre came up short.</description>
       <dc:creator>Sezgin Baktiaya</dc:creator>
       <dc:date>2026-11-23</dc:date>
-    </item>
-    <item>
-      <title>Suspected Ukrainian Sea Drones Hit Russian Corvette Merkury at Benghazi Naval Base</title>
-      <link>https://thecurtain.online/story/ukrainian-sea-drones-hit-russian-corvette-merkury-benghazi/</link>
-      <guid isPermaLink="true">https://thecurtain.online/story/ukrainian-sea-drones-hit-russian-corvette-merkury-benghazi/</guid>
-      <description>Suspected Ukrainian sea drones severely damaged the Russian corvette Merkury at the Benghazi naval base — the second Russian-linked ship hit in two days, after the Sparta II in the Gulf of Finland — and Libyan forces intercepted more than 20 more drone boats off the coast on Sunday evening.</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-22</dc:date>
-    </item>
-    <item>
-      <title>COP31 Collapses Without a Deal as Fossil Fuel Deadlock Breaks the Summit</title>
-      <link>https://thecurtain.online/story/cop31-collapses-no-deal-fossil-fuels-deadlock/</link>
-      <guid isPermaLink="true">https://thecurtain.online/story/cop31-collapses-no-deal-fossil-fuels-deadlock/</guid>
-      <description>COP31 collapsed in Antalya with no deal at all — the first COP to end without an agreement since Copenhagen 2009 — after the EU, UK and others rejected a final text that never mentioned fossil fuels.</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-22</dc:date>
-    </item>
-    <item>
-      <title>Russian Drone Strike Collapses Part of Apartment Block Near Kyiv — At Least 14 Missing</title>
-      <link>https://thecurtain.online/story/russia-drone-strike-dymer-apartment-collapse/</link>
-      <guid isPermaLink="true">https://thecurtain.online/story/russia-drone-strike-dymer-apartment-collapse/</guid>
-      <description>A Russian drone strike collapsed part of a five-storey apartment block in Dymer, north of Kyiv, on Sunday morning — at least 14 people are missing, one body has been recovered, and rescuers are still searching the rubble.</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-22</dc:date>
     </item>
   </channel>
 </rss>

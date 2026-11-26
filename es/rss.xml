@@ -9,6 +9,30 @@
     <ttl>60</ttl>
     <atom:link href="https://thecurtain.online/es/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Trump anuncia nuevos aranceles para catorce socios comerciales y reconstruye su muro arancelario sobre bases jurídicas más firmes</title>
+      <link>https://thecurtain.online/es/story/trump-unveils-new-tariffs-14-partners-section-301/</link>
+      <guid isPermaLink="true">https://thecurtain.online/es/story/trump-unveils-new-tariffs-14-partners-section-301/</guid>
+      <description>El Gobierno de Trump presentó aranceles propuestos para 14 socios comerciales en el marco de una investigación de la Sección 301 sobre el exceso de capacidad industrial, con tipos de hasta el 40 % limitados a los niveles acordados en acuerdos comerciales, y una audiencia pública fijada para enero…</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-26</dc:date>
+    </item>
+    <item>
+      <title>Los jueces israelíes instan a los fiscales a retirar el caso de soborno contra Netanyahu, y a reconsiderar un segundo</title>
+      <link>https://thecurtain.online/es/story/netanyahu-judges-urge-dropping-bribery-case-4000/</link>
+      <guid isPermaLink="true">https://thecurtain.online/es/story/netanyahu-judges-urge-dropping-bribery-case-4000/</guid>
+      <description>Los jueces de Jerusalén recomendaron a los fiscales retirar el cargo de soborno contra el primer ministro Benjamin Netanyahu, al considerar improbable una condena, en un giro importante para un juicio que comenzó en 2020…</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-26</dc:date>
+    </item>
+    <item>
+      <title>La venta masiva de acciones de IA en Wall Street se agrava antes de Acción de Gracias: Nvidia cae y el miedo se dispara</title>
+      <link>https://thecurtain.online/es/story/wall-street-ai-selloff-nasdaq-plunge-thanksgiving/</link>
+      <guid isPermaLink="true">https://thecurtain.online/es/story/wall-street-ai-selloff-nasdaq-plunge-thanksgiving/</guid>
+      <description>Wall Street sufrió otra sesión difícil, con el Nasdaq desplomándose hasta un 4,7 % antes de recuperarse, mientras Nvidia caía y los indicadores de miedo se disparaban antes del receso de Acción de Gracias…</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-26</dc:date>
+    </item>
+    <item>
       <title>Un camión cisterna explota en la Ring Road de El Cairo: al menos 31 muertos</title>
       <link>https://thecurtain.online/es/story/cairo-ring-road-fuel-tanker-fire-31-dead/</link>
       <guid isPermaLink="true">https://thecurtain.online/es/story/cairo-ring-road-fuel-tanker-fire-31-dead/</guid>
@@ -143,30 +167,6 @@
       <description>Tras un viaje de ocho años y 10.000 millones de kilómetros, la sonda eurojaponesa BepiColombo ha entrado en órbita alrededor de Mercurio, pero la ESA dice que una combustión de los propulsores durante la maniobra de llegada se quedó corta…</description>
       <dc:creator>Sezgin Baktiaya</dc:creator>
       <dc:date>2026-11-23</dc:date>
-    </item>
-    <item>
-      <title>Presuntos drones marítimos ucranianos impactan la corbeta rusa Merkury en la base naval de Bengasi</title>
-      <link>https://thecurtain.online/es/story/ukrainian-sea-drones-hit-russian-corvette-merkury-benghazi/</link>
-      <guid isPermaLink="true">https://thecurtain.online/es/story/ukrainian-sea-drones-hit-russian-corvette-merkury-benghazi/</guid>
-      <description>Presuntos drones marítimos ucranianos dañaron gravemente la corbeta rusa Merkury en la base naval de Bengasi — el segundo buque vinculado a Rusia alcanzado en dos días, tras el Sparta II en el golfo de Finlandia — y las fuerzas libias interceptaron más de 20 botes dron frente a la costa el domingo por la noche…</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-22</dc:date>
-    </item>
-    <item>
-      <title>La COP31 colapsa sin acuerdo: el bloqueo sobre los combustibles fósiles rompe la cumbre</title>
-      <link>https://thecurtain.online/es/story/cop31-collapses-no-deal-fossil-fuels-deadlock/</link>
-      <guid isPermaLink="true">https://thecurtain.online/es/story/cop31-collapses-no-deal-fossil-fuels-deadlock/</guid>
-      <description>La COP31 colapsó en Antalya sin acuerdo alguno — la primera COP que termina sin acuerdo desde Copenhague 2009 — después de que la UE, Reino Unido y otros rechazaran un texto final que ni siquiera mencionaba los combustibles fósiles…</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-22</dc:date>
-    </item>
-    <item>
-      <title>Un ataque con dron ruso derrumba parte de un bloque de apartamentos cerca de Kyiv: al menos 14 desaparecidos</title>
-      <link>https://thecurtain.online/es/story/russia-drone-strike-dymer-apartment-collapse/</link>
-      <guid isPermaLink="true">https://thecurtain.online/es/story/russia-drone-strike-dymer-apartment-collapse/</guid>
-      <description>Un ataque con dron ruso derrumbó parte de un bloque de apartamentos de cinco plantas en Dymer, al norte de Kyiv, el domingo por la mañana: al menos 14 personas están desaparecidas, se ha recuperado un cuerpo y los rescatistas siguen buscando entre los escombros…</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-22</dc:date>
     </item>
   </channel>
 </rss>
