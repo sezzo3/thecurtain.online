@@ -34,6 +34,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://thecurtain.online/de/story/houthi-attack-ras-tanura-refinery/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Huthi-Rebellen greifen Saudi-Arabiens größte Raffinerie Ras Tanura an: Ölpreis steigt um 3,5 %</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/de/story/huawei-convicted-us-criminal-trial-trade-secrets-iran/</loc>
     <news:news>
       <news:publication>
@@ -141,6 +152,17 @@
       </news:publication>
       <news:publication_date>2026-11-25</news:publication_date>
       <news:title>Dos petroleros más arden en el estrecho de Ormuz mientras Irán promete endurecer su control — y Catar se apresura a mantener vivas las conversaciones</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/es/story/houthi-attack-ras-tanura-refinery/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Los hutíes atacan la mayor refinería de Arabia Saudí, Ras Tanura, y el petróleo sube un 3,5 %</news:title>
     </news:news>
   </url>
   <url>
@@ -254,6 +276,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://thecurtain.online/story/houthi-attack-ras-tanura-refinery/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Houthis Attack Saudi Arabia's Largest Refinery, Ras Tanura, as Oil Prices Jump</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/huawei-convicted-us-criminal-trial-trade-secrets-iran/</loc>
     <news:news>
       <news:publication>
@@ -361,6 +394,17 @@
       </news:publication>
       <news:publication_date>2026-11-25</news:publication_date>
       <news:title>Hürmüz Boğazı'nda İki Tanker Daha Yanıyor: İran Sıkı Kontrol Vaadinde Bulundu, Katar Görüşmeleri Canlı Tutmak İçin Yarışıyor</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/tr/story/houthi-attack-ras-tanura-refinery/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Husiler, Suudi Arabistan'ın En Büyük Rafinerisi Ras Tanura'yı Vurdu: Petrol %3,5 Yükseldi</news:title>
     </news:news>
   </url>
   <url>
