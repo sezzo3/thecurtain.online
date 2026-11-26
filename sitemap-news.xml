@@ -89,6 +89,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://thecurtain.online/de/story/poundland-collapses-administration-11000-jobs-risk/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Poundland geht in Insolvenzverwaltung – 11.000 Arbeitsplätze wenige Wochen vor Weihnachten gefährdet</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/de/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</loc>
     <news:news>
       <news:publication>
@@ -108,6 +119,17 @@
       </news:publication>
       <news:publication_date>2026-11-26</news:publication_date>
       <news:title>Trump kündigt neue Zölle für vierzehn Handelspartner an und baut seine Zollmauer auf soliderer rechtlicher Grundlage wieder auf</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/de/story/uk-net-migration-falls-77000-lowest-since-1997/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Nettozuwanderung in Großbritannien fällt auf 77.000 – niedrigster Stand seit fast drei Jahrzehnten</news:title>
     </news:news>
   </url>
   <url>
@@ -210,6 +232,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://thecurtain.online/es/story/poundland-collapses-administration-11000-jobs-risk/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Poundland entra en concurso de acreedores y pone en riesgo 11.000 empleos a pocas semanas de Navidad</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/es/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</loc>
     <news:news>
       <news:publication>
@@ -229,6 +262,17 @@
       </news:publication>
       <news:publication_date>2026-11-26</news:publication_date>
       <news:title>Trump anuncia nuevos aranceles para catorce socios comerciales y reconstruye su muro arancelario sobre bases jurídicas más firmes</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/es/story/uk-net-migration-falls-77000-lowest-since-1997/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>La migración neta del Reino Unido cae a 77.000, su nivel más bajo en casi tres décadas</news:title>
     </news:news>
   </url>
   <url>
@@ -331,6 +375,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://thecurtain.online/story/poundland-collapses-administration-11000-jobs-risk/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Poundland Collapses Into Administration, Putting 11,000 Jobs at Risk Weeks Before Christmas</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</loc>
     <news:news>
       <news:publication>
@@ -350,6 +405,17 @@
       </news:publication>
       <news:publication_date>2026-11-26</news:publication_date>
       <news:title>Trump Unveils New Tariffs on Fourteen Trading Partners, Rebuilding His Trade Wall on Firmer Legal Ground</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/uk-net-migration-falls-77000-lowest-since-1997/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>UK Net Migration Falls to 77,000, Its Lowest Level in Almost Three Decades</news:title>
     </news:news>
   </url>
   <url>
@@ -452,6 +518,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://thecurtain.online/tr/story/poundland-collapses-administration-11000-jobs-risk/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Poundland İflas Korumasına Girdi, Noel'den Birkaç Hafta Önce 11.000 İş Tehlikede</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/tr/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</loc>
     <news:news>
       <news:publication>
@@ -471,6 +548,17 @@
       </news:publication>
       <news:publication_date>2026-11-26</news:publication_date>
       <news:title>Trump On Dört Ticaret Ortağına Yeni Tarifeler Açıkladı, Ticaret Duvarını Daha Sağlam Bir Hukuki Zeminde Yeniden İnşa Ediyor</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/tr/story/uk-net-migration-falls-77000-lowest-since-1997/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>İngiltere'de Net Göç 77.000'e Düştü, Neredeyse Otuz Yılın En Düşük Seviyesinde</news:title>
     </news:news>
   </url>
   <url>
