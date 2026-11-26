@@ -45,6 +45,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://thecurtain.online/de/story/houthis-strike-jazan-oil-refinery/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Huthis greifen saudische Jazan-Raffinerie an — ein Toter, zweiter Angriff in zwei Tagen</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/de/story/huawei-convicted-us-criminal-trial-trade-secrets-iran/</loc>
     <news:news>
       <news:publication>
@@ -196,6 +207,17 @@
       </news:publication>
       <news:publication_date>2026-11-26</news:publication_date>
       <news:title>Los hutíes atacan la mayor refinería de Arabia Saudí, Ras Tanura, y el petróleo sube un 3,5 %</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/es/story/houthis-strike-jazan-oil-refinery/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Los hutíes atacan la refinería de Jazan en Arabia Saudí, un trabajador muerto, segundo ataque en dos días</news:title>
     </news:news>
   </url>
   <url>
@@ -353,6 +375,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://thecurtain.online/story/houthis-strike-jazan-oil-refinery/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Houthis Hit Saudi Arabia's Jazan Refinery, Killing One Worker, in Second Strike in Two Days</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/huawei-convicted-us-criminal-trial-trade-secrets-iran/</loc>
     <news:news>
       <news:publication>
@@ -504,6 +537,17 @@
       </news:publication>
       <news:publication_date>2026-11-26</news:publication_date>
       <news:title>Husiler, Suudi Arabistan'ın En Büyük Rafinerisi Ras Tanura'yı Vurdu: Petrol %3,5 Yükseldi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/tr/story/houthis-strike-jazan-oil-refinery/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Husiler Cazan Petrol Rafinerisini Vurdu, Bir İşçi Öldü — İki Günde İkinci Saldırı</news:title>
     </news:news>
   </url>
   <url>

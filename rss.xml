@@ -9,6 +9,14 @@
     <ttl>60</ttl>
     <atom:link href="https://thecurtain.online/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Houthis Hit Saudi Arabia's Jazan Refinery, Killing One Worker, in Second Strike in Two Days</title>
+      <link>https://thecurtain.online/story/houthis-strike-jazan-oil-refinery/</link>
+      <guid isPermaLink="true">https://thecurtain.online/story/houthis-strike-jazan-oil-refinery/</guid>
+      <description>A Houthi projectile struck Saudi Aramco's Jazan refinery on Thursday, killing a Nepalese worker and injuring several others, a day after the group claimed an attack on Ras Tanura, the kingdom's largest refinery.</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-26</dc:date>
+    </item>
+    <item>
       <title>Iranian Drone Attack on Kuwait Kills Two Italian Technicians Maintaining Air-Defence Radar</title>
       <link>https://thecurtain.online/story/iran-drone-strike-kuwait-two-italians-killed/</link>
       <guid isPermaLink="true">https://thecurtain.online/story/iran-drone-strike-kuwait-two-italians-killed/</guid>
@@ -159,14 +167,6 @@
       <description>Several Russian military aircraft entered South Korea's air defence zone near Ulleung Island on Tuesday, prompting a brief air-raid warning that was lifted within minutes — but conflicting official messages briefly told residents the planes might be North Korean.</description>
       <dc:creator>Sezgin Baktiaya</dc:creator>
       <dc:date>2026-11-24</dc:date>
-    </item>
-    <item>
-      <title>Twenty-Four Dead and Dozens Still Missing After Fire Guts Indonesian Candy Factory</title>
-      <link>https://thecurtain.online/story/indonesia-candy-factory-fire-cikande-24-killed/</link>
-      <guid isPermaLink="true">https://thecurtain.online/story/indonesia-candy-factory-fire-cikande-24-killed/</guid>
-      <description>At least 24 people have died and about 30 are still missing after a fire tore through the PT Fonusa Agung Mulia candy factory in Cikande, Indonesia, with rescuers battling hotspots and an unstable structure.</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-23</dc:date>
     </item>
   </channel>
 </rss>

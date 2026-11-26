@@ -9,6 +9,14 @@
     <ttl>60</ttl>
     <atom:link href="https://thecurtain.online/es/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Los hutíes atacan la refinería de Jazan en Arabia Saudí, un trabajador muerto, segundo ataque en dos días</title>
+      <link>https://thecurtain.online/es/story/houthis-strike-jazan-oil-refinery/</link>
+      <guid isPermaLink="true">https://thecurtain.online/es/story/houthis-strike-jazan-oil-refinery/</guid>
+      <description>Un proyectil hutí alcanzó el jueves la refinería de Jazan de Saudi Aramco, mató a un trabajador nepalés e hirió a varias personas, un día después de que el grupo reivindicara un ataque contra Ras Tanura, la mayor refinería del reino…</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-26</dc:date>
+    </item>
+    <item>
       <title>Ataque con drones de Irán en Kuwait mata a dos técnicos italianos de defensa antiaérea</title>
       <link>https://thecurtain.online/es/story/iran-drone-strike-kuwait-two-italians-killed/</link>
       <guid isPermaLink="true">https://thecurtain.online/es/story/iran-drone-strike-kuwait-two-italians-killed/</guid>
@@ -159,14 +167,6 @@
       <description>Varios aviones militares rusos entraron en la zona de identificación de defensa aérea de Corea del Sur cerca de la isla de Ulleung el martes, lo que provocó una breve alerta de ataque aéreo que se levantó en cuestión de minutos — pero mensajes oficiales contradictorios dijeron brevemente a los residentes que los aviones podrían ser norcoreanos…</description>
       <dc:creator>Sezgin Baktiaya</dc:creator>
       <dc:date>2026-11-24</dc:date>
-    </item>
-    <item>
-      <title>Veinticuatro muertos y decenas de desaparecidos tras el incendio que arrasó una fábrica de caramelos en Indonesia</title>
-      <link>https://thecurtain.online/es/story/indonesia-candy-factory-fire-cikande-24-killed/</link>
-      <guid isPermaLink="true">https://thecurtain.online/es/story/indonesia-candy-factory-fire-cikande-24-killed/</guid>
-      <description>Al menos 24 personas han muerto y unas 30 siguen desaparecidas tras el incendio que arrasó la fábrica de caramelos PT Fonusa Agung Mulia en Cikande, Indonesia, mientras los equipos de rescate combaten los focos activos y una estructura inestable…</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-23</dc:date>
     </item>
   </channel>
 </rss>

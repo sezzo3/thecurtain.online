@@ -9,6 +9,14 @@
     <ttl>60</ttl>
     <atom:link href="https://thecurtain.online/de/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Huthis greifen saudische Jazan-Raffinerie an — ein Toter, zweiter Angriff in zwei Tagen</title>
+      <link>https://thecurtain.online/de/story/houthis-strike-jazan-oil-refinery/</link>
+      <guid isPermaLink="true">https://thecurtain.online/de/story/houthis-strike-jazan-oil-refinery/</guid>
+      <description>Ein Geschoss der Huthis traf am Donnerstag die Jazan-Raffinerie von Saudi Aramco, tötete einen nepalesischen Arbeiter und verletzte mehrere weitere — einen Tag nachdem die Gruppe einen Angriff auf Ras Tanura, die größte Raffinerie des Königreichs, für sich beansprucht hatte…</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-26</dc:date>
+    </item>
+    <item>
       <title>Iranischer Drohnenangriff auf Kuwait tötet zwei italienische Techniker der Luftabwehr</title>
       <link>https://thecurtain.online/de/story/iran-drone-strike-kuwait-two-italians-killed/</link>
       <guid isPermaLink="true">https://thecurtain.online/de/story/iran-drone-strike-kuwait-two-italians-killed/</guid>
@@ -159,14 +167,6 @@
       <description>Mehrere russische Militärflugzeuge sind am Dienstag in die Luftverteidigungszone Südkoreas nahe der Insel Ulleung eingedrungen und lösten eine kurze Luftalarmwarnung aus, die binnen Minuten wieder aufgehoben wurde — doch widersprüchliche amtliche Mitteilungen sagten den Bewohnern kurzzeitig, die Flugzeuge könnten nordkoreanisch sein…</description>
       <dc:creator>Sezgin Baktiaya</dc:creator>
       <dc:date>2026-11-24</dc:date>
-    </item>
-    <item>
-      <title>24 Tote und Dutzende Vermisste nach Brand in indonesischer Süßwarenfabrik</title>
-      <link>https://thecurtain.online/de/story/indonesia-candy-factory-fire-cikande-24-killed/</link>
-      <guid isPermaLink="true">https://thecurtain.online/de/story/indonesia-candy-factory-fire-cikande-24-killed/</guid>
-      <description>Mindestens 24 Menschen sind gestorben und etwa 30 werden noch vermisst, nachdem ein Feuer die Süßwarenfabrik PT Fonusa Agung Mulia in Cikande, Indonesien, verwüstet hat, während Rettungskräfte gegen Brandnester und eine instabile Struktur kämpfen…</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-23</dc:date>
     </item>
   </channel>
 </rss>

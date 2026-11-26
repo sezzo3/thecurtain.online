@@ -9,6 +9,14 @@
     <ttl>60</ttl>
     <atom:link href="https://thecurtain.online/tr/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Husiler Cazan Petrol Rafinerisini Vurdu, Bir İşçi Öldü — İki Günde İkinci Saldırı</title>
+      <link>https://thecurtain.online/tr/story/houthis-strike-jazan-oil-refinery/</link>
+      <guid isPermaLink="true">https://thecurtain.online/tr/story/houthis-strike-jazan-oil-refinery/</guid>
+      <description>Husilerin fırlattığı bir hava mermisi perşembe günü Saudi Aramco'nun Cazan rafinerisini vurdu; Nepalli bir işçi öldü, birkaç kişi yaralandı; saldırı, grubun krallığın en büyük rafinerisi Ras Tanura'ya saldırı düzenlediğini açıklamasından bir gün sonra geldi…</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-26</dc:date>
+    </item>
+    <item>
       <title>İran'ın Kuveyt'e Drone Saldırısında İki İtalyan Teknisyen Öldü</title>
       <link>https://thecurtain.online/tr/story/iran-drone-strike-kuwait-two-italians-killed/</link>
       <guid isPermaLink="true">https://thecurtain.online/tr/story/iran-drone-strike-kuwait-two-italians-killed/</guid>
@@ -159,14 +167,6 @@
       <description>Salı günü birkaç Rus askerî uçağı, Ulleung Adası yakınlarında Güney Kore'nin hava savunma bölgesine girdi ve dakikalar içinde kaldırılan kısa bir hava saldırısı uyarısına yol açtı — ancak çelişkili resmî mesajlar, adada yaşayanlara uçakların Kuzey Kore'ye ait olabileceğini bir süreliğine söyledi…</description>
       <dc:creator>Sezgin Baktiaya</dc:creator>
       <dc:date>2026-11-24</dc:date>
-    </item>
-    <item>
-      <title>Endonezya'da Şeker Fabrikası Yangını: 24 Ölü, Yaklaşık 30 Kayıp</title>
-      <link>https://thecurtain.online/tr/story/indonesia-candy-factory-fire-cikande-24-killed/</link>
-      <guid isPermaLink="true">https://thecurtain.online/tr/story/indonesia-candy-factory-fire-cikande-24-killed/</guid>
-      <description>En az 24 kişi öldü, yaklaşık 30 kişi hâlâ kayıp: Endonezya'nın Cikande kentindeki PT Fonusa Agung Mulia şeker fabrikasını kül eden yangının ardından kurtarma ekipleri sıcak noktalarla ve dengesizleşen yapıyla mücadele ediyor…</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-23</dc:date>
     </item>
   </channel>
 </rss>
