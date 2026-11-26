@@ -67,6 +67,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://thecurtain.online/de/story/iran-drone-strike-kuwait-two-italians-killed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Iranischer Drohnenangriff auf Kuwait tötet zwei italienische Techniker der Luftabwehr</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/de/story/netanyahu-judges-urge-dropping-bribery-case-4000/</loc>
     <news:news>
       <news:publication>
@@ -207,6 +218,17 @@
       </news:publication>
       <news:publication_date>2026-11-25</news:publication_date>
       <news:title>Una inundación arrasa una mina de oro ilegal en Indonesia: 9 muertos y 17 mineros atrapados</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/es/story/iran-drone-strike-kuwait-two-italians-killed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Ataque con drones de Irán en Kuwait mata a dos técnicos italianos de defensa antiaérea</news:title>
     </news:news>
   </url>
   <url>
@@ -353,6 +375,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://thecurtain.online/story/iran-drone-strike-kuwait-two-italians-killed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>Iranian Drone Attack on Kuwait Kills Two Italian Technicians Maintaining Air-Defence Radar</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/netanyahu-judges-urge-dropping-bribery-case-4000/</loc>
     <news:news>
       <news:publication>
@@ -493,6 +526,17 @@
       </news:publication>
       <news:publication_date>2026-11-25</news:publication_date>
       <news:title>Endonezya’da Yasa Dışı Altın Madenini Sel Bastı: 9 Ölü, 17 Madenci Mahsur</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/tr/story/iran-drone-strike-kuwait-two-italians-killed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26</news:publication_date>
+      <news:title>İran'ın Kuveyt'e Drone Saldırısında İki İtalyan Teknisyen Öldü</news:title>
     </news:news>
   </url>
   <url>
