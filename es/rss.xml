@@ -9,6 +9,22 @@
     <ttl>60</ttl>
     <atom:link href="https://thecurtain.online/es/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>El sistema de prestaciones británico se cae tras un ciberincidente en el Departamento de Trabajo y Pensiones</title>
+      <link>https://thecurtain.online/es/story/dwp-cyber-incident-benefits-system-offline/</link>
+      <guid isPermaLink="true">https://thecurtain.online/es/story/dwp-cyber-incident-benefits-system-offline/</guid>
+      <description>El sistema de prestaciones británico se ha caído parcialmente después de que el Departamento de Trabajo y Pensiones detectara un ciberincidente en sus sistemas; los servicios en línea se cerraron como precaución mientras los pagos continúan con normalidad…</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-27</dc:date>
+    </item>
+    <item>
+      <title>El ébola supera los 12.000 casos en el Congo mientras los disparos expulsan a los sanitarios del frente</title>
+      <link>https://thecurtain.online/es/story/congo-ebola-passes-12000-cases-fighting-disrupts-response/</link>
+      <guid isPermaLink="true">https://thecurtain.online/es/story/congo-ebola-passes-12000-cases-fighting-disrupts-response/</guid>
+      <description>El brote de ébola en el Congo ha superado los 12.000 casos confirmados, con casi la mitad de los infectados muertos, mientras los combates en Ituri obligan a los sanitarios a huir de las ciudades donde la enfermedad se propaga más rápido…</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-27</dc:date>
+    </item>
+    <item>
       <title>Trump dice a las tropas que la victoria sobre Irán está 'al alcance de la mano' mientras un mortífero ataque con drones en Kuwait agrava la crisis</title>
       <link>https://thecurtain.online/es/story/trump-victory-at-hand-iran-kuwait-drone-attack/</link>
       <guid isPermaLink="true">https://thecurtain.online/es/story/trump-victory-at-hand-iran-kuwait-drone-attack/</guid>
@@ -151,22 +167,6 @@
       <description>La Administración Trump está a punto de anunciar nuevos aranceles contra 16 socios comerciales en virtud de una investigación de la Sección 301 sobre el exceso de capacidad industrial, que sustituiría en parte los derechos que el Tribunal Supremo anuló en febrero…</description>
       <dc:creator>Sezgin Baktiaya</dc:creator>
       <dc:date>2026-11-25</dc:date>
-    </item>
-    <item>
-      <title>Sanofi paga 41.000 millones de dólares por Insmed en su mayor apuesta por las enfermedades pulmonares</title>
-      <link>https://thecurtain.online/es/story/sanofi-buys-insmed-41-billion-lung-drugs-deal/</link>
-      <guid isPermaLink="true">https://thecurtain.online/es/story/sanofi-buys-insmed-41-billion-lung-drugs-deal/</guid>
-      <description>Sanofi acordó comprar la farmacéutica estadounidense Insmed por 41.000 millones de dólares en efectivo el martes, el mayor acuerdo farmacéutico en tres años, mientras busca reemplazar los ingresos de su medicamento estrella Dupixent antes de que expiren sus patentes…</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-24</dc:date>
-    </item>
-    <item>
-      <title>Dos estados demandan a SpaceX, de Musk, por el aluvión de deepfakes sexualizados de Grok</title>
-      <link>https://thecurtain.online/es/story/virginia-oregon-sue-musk-spacex-grok-deepfakes/</link>
-      <guid isPermaLink="true">https://thecurtain.online/es/story/virginia-oregon-sue-musk-spacex-grok-deepfakes/</guid>
-      <description>Virginia y Oregón demandaron el lunes a SpaceX, de Elon Musk, acusando al «modo picante» de Grok de convertir fotografías ordinarias en imágenes sexualizadas, incluidas imágenes de menores, en las primeras demandas estatales por el escándalo de deepfakes del chatbot…</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-24</dc:date>
     </item>
   </channel>
 </rss>

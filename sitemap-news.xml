@@ -1,6 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/de/story/congo-ebola-passes-12000-cases-fighting-disrupts-response/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Ebola übersteigt im Kongo 12.000 Fälle, während Schusswechsel Helfer von der Front vertreiben</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/de/story/dwp-cyber-incident-benefits-system-offline/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Britisches Leistungssystem geht offline, nachdem ein Cybervorfall das Arbeits- und Rentenministerium trifft</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/de/story/ecb-picks-hernandez-de-cos-next-president/</loc>
     <news:news>
       <news:publication>
@@ -119,6 +141,28 @@
       </news:publication>
       <news:publication_date>2026-11-26</news:publication_date>
       <news:title>Ausverkauf bei KI-Aktien an der Wall Street vertieft sich vor Thanksgiving, während Nvidia fällt und die Angst steigt</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/es/story/congo-ebola-passes-12000-cases-fighting-disrupts-response/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>El ébola supera los 12.000 casos en el Congo mientras los disparos expulsan a los sanitarios del frente</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/es/story/dwp-cyber-incident-benefits-system-offline/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>El sistema de prestaciones británico se cae tras un ciberincidente en el Departamento de Trabajo y Pensiones</news:title>
     </news:news>
   </url>
   <url>
@@ -243,6 +287,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://thecurtain.online/story/congo-ebola-passes-12000-cases-fighting-disrupts-response/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Ebola Passes 12,000 Cases in Congo as Gunfire Drives Health Workers From the Front Line</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/dwp-cyber-incident-benefits-system-offline/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Britain's Benefits System Goes Offline as a Cyber Incident Hits the Department for Work and Pensions</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/ecb-picks-hernandez-de-cos-next-president/</loc>
     <news:news>
       <news:publication>
@@ -361,6 +427,28 @@
       </news:publication>
       <news:publication_date>2026-11-26</news:publication_date>
       <news:title>Wall Street's AI Sell-Off Deepens Before Thanksgiving as Nvidia Slides and Fear Spikes</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/tr/story/congo-ebola-passes-12000-cases-fighting-disrupts-response/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Kongo'da Ebola 12.000 Vakayı Aştı; Silah Sesleri Sağlık Çalışanlarını Cepheden Uzaklaştırdı</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/tr/story/dwp-cyber-incident-benefits-system-offline/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Siber Olay Çalışma ve Emeklilik Bakanlığını Vurunca İngiltere'nin Yardım Sistemi Çevrimdışı Kaldı</news:title>
     </news:news>
   </url>
   <url>

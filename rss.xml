@@ -9,6 +9,22 @@
     <ttl>60</ttl>
     <atom:link href="https://thecurtain.online/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Britain's Benefits System Goes Offline as a Cyber Incident Hits the Department for Work and Pensions</title>
+      <link>https://thecurtain.online/story/dwp-cyber-incident-benefits-system-offline/</link>
+      <guid isPermaLink="true">https://thecurtain.online/story/dwp-cyber-incident-benefits-system-offline/</guid>
+      <description>Britain's benefits system went partially offline after the Department for Work and Pensions found a cyber incident in its systems, taking online services down as a precaution while payments continue as normal.</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-27</dc:date>
+    </item>
+    <item>
+      <title>Ebola Passes 12,000 Cases in Congo as Gunfire Drives Health Workers From the Front Line</title>
+      <link>https://thecurtain.online/story/congo-ebola-passes-12000-cases-fighting-disrupts-response/</link>
+      <guid isPermaLink="true">https://thecurtain.online/story/congo-ebola-passes-12000-cases-fighting-disrupts-response/</guid>
+      <description>Congo's Ebola outbreak has passed 12,000 confirmed cases, with nearly half of those infected dead, as fighting in Ituri forces health workers to flee the towns where the disease is spreading fastest.</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-27</dc:date>
+    </item>
+    <item>
       <title>Trump Tells Troops Victory Over Iran Is "At Hand" as a Deadly Drone Attack in Kuwait Deepens the Crisis</title>
       <link>https://thecurtain.online/story/trump-victory-at-hand-iran-kuwait-drone-attack/</link>
       <guid isPermaLink="true">https://thecurtain.online/story/trump-victory-at-hand-iran-kuwait-drone-attack/</guid>
@@ -151,22 +167,6 @@
       <description>The Trump administration is poised to unveil new tariffs on 16 trading partners under a Section 301 probe into excess industrial capacity, partly replacing duties the Supreme Court struck down in February.</description>
       <dc:creator>Sezgin Baktiaya</dc:creator>
       <dc:date>2026-11-25</dc:date>
-    </item>
-    <item>
-      <title>Sanofi Pays $41 Billion for Insmed in Its Biggest Bet Yet on Lung Disease</title>
-      <link>https://thecurtain.online/story/sanofi-buys-insmed-41-billion-lung-drugs-deal/</link>
-      <guid isPermaLink="true">https://thecurtain.online/story/sanofi-buys-insmed-41-billion-lung-drugs-deal/</guid>
-      <description>Sanofi agreed to buy the American drugmaker Insmed for $41 billion in cash on Tuesday, the biggest pharmaceutical deal in three years, as it moves to replace revenue from its blockbuster drug Dupixent before its patents expire.</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-24</dc:date>
-    </item>
-    <item>
-      <title>Two States Sue Musk's SpaceX Over Grok's Flood of Sexualised Deepfakes</title>
-      <link>https://thecurtain.online/story/virginia-oregon-sue-musk-spacex-grok-deepfakes/</link>
-      <guid isPermaLink="true">https://thecurtain.online/story/virginia-oregon-sue-musk-spacex-grok-deepfakes/</guid>
-      <description>Virginia and Oregon sued Elon Musk's SpaceX on Monday, accusing Grok's 'spicy mode' of turning ordinary photographs into sexualised images, including images of children, in the first state lawsuits over the chatbot's deepfake scandal.</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-24</dc:date>
     </item>
   </channel>
 </rss>
