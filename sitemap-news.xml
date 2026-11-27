@@ -1,36 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://thecurtain.online/de/story/cairo-ring-road-fuel-tanker-fire-31-dead/</loc>
+    <loc>https://thecurtain.online/de/story/ecb-picks-hernandez-de-cos-next-president/</loc>
     <news:news>
       <news:publication>
         <news:name>The Curtain Official</news:name>
         <news:language>de</news:language>
       </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Tanklastzug explodiert auf Kairos Ring Road: Mindestens 31 Tote</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/de/story/chen-jining-shanghai-party-chief-xi-purge-politburo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>de</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Xis Säuberung fordert ihren bislang größten Namen: Shanghais Parteichef Chen Jining steht unter Ermittlungen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/de/story/hormuz-tankers-mines-iran-tightens-grip-qatar-talks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>de</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Zwei weitere Tanker brennen in der Straße von Hormus, während der Iran eine schärfere Kontrolle ankündigt — und Katar um die Fortsetzung der Gespräche ringt</news:title>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Europa wählt Spaniens Pablo Hernández de Cos, um die Zentralbank durch stürmische Gewässer zu steuern</news:title>
     </news:news>
   </url>
   <url>
@@ -56,28 +34,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/de/story/huawei-convicted-us-criminal-trial-trade-secrets-iran/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>de</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Nach acht Jahren spricht eine Jury in Brooklyn Huawei des Betrugs und des Diebstahls von Geschäftsgeheimnissen schuldig — aber nicht der organisierten Kriminalität</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/de/story/indonesia-gold-mine-flood-bogor-9-dead-17-trapped/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>de</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Flut überschwemmt illegale Goldmine in Indonesien: Neun Tote, 17 Bergleute eingeschlossen</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/de/story/iran-drone-strike-kuwait-two-italians-killed/</loc>
     <news:news>
       <news:publication>
@@ -100,17 +56,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/de/story/nvidia-shares-fall-huang-trump-lawmakers-congress/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>de</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Nvidias Comeback-Rally verblasst: Abgeordnete fordern Antworten zu Trumps Rolle — und der Justizminister weicht aus</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/de/story/poundland-collapses-administration-11000-jobs-risk/</loc>
     <news:news>
       <news:publication>
@@ -122,17 +67,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/de/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>de</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Trump bereitet neue Zölle gegen sechzehn Handelspartner vor, während die alten Abgaben vor Gericht stehen</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/de/story/trump-unveils-new-tariffs-14-partners-section-301/</loc>
     <news:news>
       <news:publication>
@@ -141,6 +75,28 @@
       </news:publication>
       <news:publication_date>2026-11-26</news:publication_date>
       <news:title>Trump kündigt neue Zölle für vierzehn Handelspartner an und baut seine Zollmauer auf soliderer rechtlicher Grundlage wieder auf</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/de/story/trump-victory-at-hand-iran-kuwait-drone-attack/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Trump sagt Truppen, Sieg über den Iran sei 'in Reichweite', während ein tödlicher Drohnenangriff in Kuwait die Krise verschärft</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/de/story/uk-contacts-100000-reservists-russia-threat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Großbritannien schreibt 100.000 Veteranen an — größte Bereitschaftsoffensive seit dem Kalten Krieg</news:title>
     </news:news>
   </url>
   <url>
@@ -166,36 +122,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/es/story/cairo-ring-road-fuel-tanker-fire-31-dead/</loc>
+    <loc>https://thecurtain.online/es/story/ecb-picks-hernandez-de-cos-next-president/</loc>
     <news:news>
       <news:publication>
         <news:name>The Curtain Official</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Un camión cisterna explota en la Ring Road de El Cairo: al menos 31 muertos</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/es/story/chen-jining-shanghai-party-chief-xi-purge-politburo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>La purga de Xi cobra su nombre más importante: el jefe del partido en Shanghái, Chen Jining, bajo investigación</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/es/story/hormuz-tankers-mines-iran-tightens-grip-qatar-talks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Dos petroleros más arden en el estrecho de Ormuz mientras Irán promete endurecer su control — y Catar se apresura a mantener vivas las conversaciones</news:title>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Europa elige al español Pablo Hernández de Cos para dirigir el Banco Central en aguas turbulentas</news:title>
     </news:news>
   </url>
   <url>
@@ -221,28 +155,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/es/story/huawei-convicted-us-criminal-trial-trade-secrets-iran/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Tras ocho años, un jurado de Brooklyn declara a Huawei culpable de fraude y robo de secretos comerciales, pero no de crimen organizado</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/es/story/indonesia-gold-mine-flood-bogor-9-dead-17-trapped/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Una inundación arrasa una mina de oro ilegal en Indonesia: 9 muertos y 17 mineros atrapados</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/es/story/iran-drone-strike-kuwait-two-italians-killed/</loc>
     <news:news>
       <news:publication>
@@ -265,17 +177,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/es/story/nvidia-shares-fall-huang-trump-lawmakers-congress/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>El repunte de Nvidia se desvanece: los legisladores exigen respuestas sobre el papel de Trump — y el fiscal general elude las preguntas</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/es/story/poundland-collapses-administration-11000-jobs-risk/</loc>
     <news:news>
       <news:publication>
@@ -287,17 +188,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/es/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Trump prepara una nueva oleada de aranceles contra dieciséis socios comerciales mientras los antiguos aranceles se enfrentan a los tribunales</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/es/story/trump-unveils-new-tariffs-14-partners-section-301/</loc>
     <news:news>
       <news:publication>
@@ -306,6 +196,28 @@
       </news:publication>
       <news:publication_date>2026-11-26</news:publication_date>
       <news:title>Trump anuncia nuevos aranceles para catorce socios comerciales y reconstruye su muro arancelario sobre bases jurídicas más firmes</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/es/story/trump-victory-at-hand-iran-kuwait-drone-attack/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Trump dice a las tropas que la victoria sobre Irán está 'al alcance de la mano' mientras un mortífero ataque con drones en Kuwait agrava la crisis</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/es/story/uk-contacts-100000-reservists-russia-threat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Reino Unido escribe a 100.000 veteranos en su mayor campaña de preparación desde la Guerra Fría</news:title>
     </news:news>
   </url>
   <url>
@@ -331,36 +243,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/story/cairo-ring-road-fuel-tanker-fire-31-dead/</loc>
+    <loc>https://thecurtain.online/story/ecb-picks-hernandez-de-cos-next-president/</loc>
     <news:news>
       <news:publication>
         <news:name>The Curtain Official</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Fuel Tanker Crash Ignites Massive Fire on Cairo's Ring Road, Killing at Least 31</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/chen-jining-shanghai-party-chief-xi-purge-politburo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Xi's Purge Claims Its Biggest Name Yet: Shanghai Boss Chen Jining Under Investigation</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/hormuz-tankers-mines-iran-tightens-grip-qatar-talks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Two More Tankers Burn in the Strait of Hormuz as Iran Vows to Tighten Its Grip — and Qatar Races to Keep Talks Alive</news:title>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Europe Picks Spain's Pablo Hernández de Cos to Steer the Central Bank Through Stormy Waters</news:title>
     </news:news>
   </url>
   <url>
@@ -386,28 +276,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/story/huawei-convicted-us-criminal-trial-trade-secrets-iran/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>After Eight Years, a Brooklyn Jury Finds Huawei Guilty of Fraud and Trade-Secret Theft — but Not Racketeering</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/indonesia-gold-mine-flood-bogor-9-dead-17-trapped/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Nine Dead, 17 Trapped After Flood Swamps an Illegal Gold Mine in Indonesia</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/story/iran-drone-strike-kuwait-two-italians-killed/</loc>
     <news:news>
       <news:publication>
@@ -430,17 +298,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/story/nvidia-shares-fall-huang-trump-lawmakers-congress/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Nvidia's Comeback Rally Fades as Lawmakers Demand Answers on Trump's Role — and the Attorney General Dodges</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/story/poundland-collapses-administration-11000-jobs-risk/</loc>
     <news:news>
       <news:publication>
@@ -452,17 +309,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Trump Readies a New Tariff Blitz on Sixteen Trading Partners as the Old Duties Face the Courts</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/story/trump-unveils-new-tariffs-14-partners-section-301/</loc>
     <news:news>
       <news:publication>
@@ -471,6 +317,28 @@
       </news:publication>
       <news:publication_date>2026-11-26</news:publication_date>
       <news:title>Trump Unveils New Tariffs on Fourteen Trading Partners, Rebuilding His Trade Wall on Firmer Legal Ground</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/trump-victory-at-hand-iran-kuwait-drone-attack/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Trump Tells Troops Victory Over Iran Is "At Hand" as a Deadly Drone Attack in Kuwait Deepens the Crisis</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/uk-contacts-100000-reservists-russia-threat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Britain Writes to 100,000 Veterans in Its Biggest Readiness Drive Since the Cold War</news:title>
     </news:news>
   </url>
   <url>
@@ -496,36 +364,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/tr/story/cairo-ring-road-fuel-tanker-fire-31-dead/</loc>
+    <loc>https://thecurtain.online/tr/story/ecb-picks-hernandez-de-cos-next-president/</loc>
     <news:news>
       <news:publication>
         <news:name>The Curtain Official</news:name>
         <news:language>tr</news:language>
       </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Kahire Çevre Yolu'nda Akaryakıt Tankeri Alev Aldı: En Az 31 Ölü</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/tr/story/chen-jining-shanghai-party-chief-xi-purge-politburo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Şi'nin Tasfiyesi En Büyük İsmini de Aldı: Şanghay Parti Şefi Chen Jining Soruşturma Altında</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/tr/story/hormuz-tankers-mines-iran-tightens-grip-qatar-talks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Hürmüz Boğazı'nda İki Tanker Daha Yanıyor: İran Sıkı Kontrol Vaadinde Bulundu, Katar Görüşmeleri Canlı Tutmak İçin Yarışıyor</news:title>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Avrupa, Merkez Bankasını Fırtınalı Sularda Yönlendirmesi İçin İspanya'dan Pablo Hernández de Cos'u Seçti</news:title>
     </news:news>
   </url>
   <url>
@@ -551,28 +397,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/tr/story/huawei-convicted-us-criminal-trial-trade-secrets-iran/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Sekiz Yılın Ardından Brooklyn Jürisi Huawei'i Dolandırıcılık ve Ticari Sır Hırsızlığından Suçlu Buldu — Ama Örgütlü Suçtan Değil</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/tr/story/indonesia-gold-mine-flood-bogor-9-dead-17-trapped/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Endonezya’da Yasa Dışı Altın Madenini Sel Bastı: 9 Ölü, 17 Madenci Mahsur</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/tr/story/iran-drone-strike-kuwait-two-italians-killed/</loc>
     <news:news>
       <news:publication>
@@ -595,17 +419,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/tr/story/nvidia-shares-fall-huang-trump-lawmakers-congress/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Nvidia'nın Geri Dönüş Rallisi Sönüyor: Kongre Üyeleri Trump'ın Rolü Hakkında Yanıt İstiyor, Başsavcı İse Soruları Savuşturuyor</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/tr/story/poundland-collapses-administration-11000-jobs-risk/</loc>
     <news:news>
       <news:publication>
@@ -617,17 +430,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/tr/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25</news:publication_date>
-      <news:title>Trump, Eski Tarifeler Mahkemede Tartışılırken On Altı Ticaret Ortağına Yeni Bir Tarife Saldırısı Hazırlıyor</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/tr/story/trump-unveils-new-tariffs-14-partners-section-301/</loc>
     <news:news>
       <news:publication>
@@ -636,6 +438,28 @@
       </news:publication>
       <news:publication_date>2026-11-26</news:publication_date>
       <news:title>Trump On Dört Ticaret Ortağına Yeni Tarifeler Açıkladı, Ticaret Duvarını Daha Sağlam Bir Hukuki Zeminde Yeniden İnşa Ediyor</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/tr/story/trump-victory-at-hand-iran-kuwait-drone-attack/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Trump Askerlere İran Karşısında Zaferin 'Yakında' Olduğunu Söyledi; Kuveyt'teki Ölümcül Drone Saldırısı Krizi Derinleştiriyor</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/tr/story/uk-contacts-100000-reservists-russia-threat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>İngiltere, Soğuk Savaş'tan Bu Yana En Büyük Hazırlık Hamlesinde 100.000 Gaziye Mektup Yazdı</news:title>
     </news:news>
   </url>
   <url>
