@@ -9,6 +9,14 @@
     <ttl>60</ttl>
     <atom:link href="https://thecurtain.online/de/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hacker dringen in Cloud One der US-Luftwaffe ein und gefährden sensible Militärdaten</title>
+      <link>https://thecurtain.online/de/story/us-air-force-cloud-one-breach/</link>
+      <guid isPermaLink="true">https://thecurtain.online/de/story/us-air-force-cloud-one-breach/</guid>
+      <description>Hacker sind in Cloud One eingedrungen, die Vorzeige-Cloud-Plattform der US-Luftwaffe, und könnten sensible taktische, Personal- und Logistikdaten gefährdet haben, berichtete Reuters unter Berufung auf drei mit der Angelegenheit vertraute Personen…</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-27</dc:date>
+    </item>
+    <item>
       <title>Britisches Leistungssystem geht offline, nachdem ein Cybervorfall das Arbeits- und Rentenministerium trifft</title>
       <link>https://thecurtain.online/de/story/dwp-cyber-incident-benefits-system-offline/</link>
       <guid isPermaLink="true">https://thecurtain.online/de/story/dwp-cyber-incident-benefits-system-offline/</guid>
@@ -157,14 +165,6 @@
       <link>https://thecurtain.online/de/story/chen-jining-shanghai-party-chief-xi-purge-politburo/</link>
       <guid isPermaLink="true">https://thecurtain.online/de/story/chen-jining-shanghai-party-chief-xi-purge-politburo/</guid>
       <description>Der Shanghaier Parteichef Chen Jining, einst als Anwärter auf Chinas oberste Führung gehandelt, wird wegen Korruption untersucht und ist das vierte Politbüro-Mitglied, das in Xi Jinpings sich ausweitender Säuberung fällt…</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-25</dc:date>
-    </item>
-    <item>
-      <title>Trump bereitet neue Zölle gegen sechzehn Handelspartner vor, während die alten Abgaben vor Gericht stehen</title>
-      <link>https://thecurtain.online/de/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</link>
-      <guid isPermaLink="true">https://thecurtain.online/de/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</guid>
-      <description>Die Trump-Regierung steht kurz davor, neue Zölle gegen 16 Handelspartner im Rahmen einer Section-301-Untersuchung zu industriellen Überkapazitäten bekannt zu geben, die teilweise die Zölle ersetzen, die der Oberste Gerichtshof im Februar gekippt hatte…</description>
       <dc:creator>Sezgin Baktiaya</dc:creator>
       <dc:date>2026-11-25</dc:date>
     </item>

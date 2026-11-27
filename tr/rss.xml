@@ -9,6 +9,14 @@
     <ttl>60</ttl>
     <atom:link href="https://thecurtain.online/tr/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ABD Hava Kuvvetleri'nin Cloud One Bulut Platformu Hacklendi, Hassas Askeri Veriler Tehlikede</title>
+      <link>https://thecurtain.online/tr/story/us-air-force-cloud-one-breach/</link>
+      <guid isPermaLink="true">https://thecurtain.online/tr/story/us-air-force-cloud-one-breach/</guid>
+      <description>Bilgisayar korsanları, ABD Hava Kuvvetleri'nin amiral gemisi bulut bilişim platformu Cloud One'a sızdı; Reuters, konuya aşina üç kişiye dayandırdığı haberinde saldırının hassas taktik, personel ve lojistik verileri tehlikeye atabileceğini bildirdi…</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-27</dc:date>
+    </item>
+    <item>
       <title>Siber Olay Çalışma ve Emeklilik Bakanlığını Vurunca İngiltere'nin Yardım Sistemi Çevrimdışı Kaldı</title>
       <link>https://thecurtain.online/tr/story/dwp-cyber-incident-benefits-system-offline/</link>
       <guid isPermaLink="true">https://thecurtain.online/tr/story/dwp-cyber-incident-benefits-system-offline/</guid>
@@ -157,14 +165,6 @@
       <link>https://thecurtain.online/tr/story/chen-jining-shanghai-party-chief-xi-purge-politburo/</link>
       <guid isPermaLink="true">https://thecurtain.online/tr/story/chen-jining-shanghai-party-chief-xi-purge-politburo/</guid>
       <description>Bir zamanlar Çin'in en üst liderliğine aday gösterilen Şanghay parti şefi Chen Jining, yolsuzluk soruşturması altında; Şi Cinping'in genişleyen tasfiyesinde düşen dördüncü Politbüro üyesi oldu…</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-25</dc:date>
-    </item>
-    <item>
-      <title>Trump, Eski Tarifeler Mahkemede Tartışılırken On Altı Ticaret Ortağına Yeni Bir Tarife Saldırısı Hazırlıyor</title>
-      <link>https://thecurtain.online/tr/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</link>
-      <guid isPermaLink="true">https://thecurtain.online/tr/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</guid>
-      <description>Trump yönetimi, aşırı sanayi kapasitesine ilişkin bir 301. Bölüm soruşturması kapsamında 16 ticaret ortağına yeni tarifeler açıklamaya hazırlanıyor; bu, Yüksek Mahkeme'nin şubat ayında iptal ettiği vergilerin kısmen yerini alacak…</description>
       <dc:creator>Sezgin Baktiaya</dc:creator>
       <dc:date>2026-11-25</dc:date>
     </item>

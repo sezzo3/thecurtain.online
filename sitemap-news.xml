@@ -133,6 +133,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://thecurtain.online/de/story/us-air-force-cloud-one-breach/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Hacker dringen in Cloud One der US-Luftwaffe ein und gefährden sensible Militärdaten</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/de/story/wall-street-ai-selloff-nasdaq-plunge-thanksgiving/</loc>
     <news:news>
       <news:publication>
@@ -273,6 +284,17 @@
       </news:publication>
       <news:publication_date>2026-11-26</news:publication_date>
       <news:title>La migración neta del Reino Unido cae a 77.000, su nivel más bajo en casi tres décadas</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/es/story/us-air-force-cloud-one-breach/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Piratas informáticos vulneran Cloud One, la plataforma en la nube de la Fuerza Aérea de EE. UU., y ponen en riesgo datos militares sensibles</news:title>
     </news:news>
   </url>
   <url>
@@ -419,6 +441,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://thecurtain.online/story/us-air-force-cloud-one-breach/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>Hackers Breach the US Air Force's Cloud One Platform, Putting Sensitive Military Data at Risk</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/story/wall-street-ai-selloff-nasdaq-plunge-thanksgiving/</loc>
     <news:news>
       <news:publication>
@@ -559,6 +592,17 @@
       </news:publication>
       <news:publication_date>2026-11-26</news:publication_date>
       <news:title>İngiltere'de Net Göç 77.000'e Düştü, Neredeyse Otuz Yılın En Düşük Seviyesinde</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/tr/story/us-air-force-cloud-one-breach/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27</news:publication_date>
+      <news:title>ABD Hava Kuvvetleri'nin Cloud One Bulut Platformu Hacklendi, Hassas Askeri Veriler Tehlikede</news:title>
     </news:news>
   </url>
   <url>

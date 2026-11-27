@@ -9,6 +9,14 @@
     <ttl>60</ttl>
     <atom:link href="https://thecurtain.online/es/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Piratas informáticos vulneran Cloud One, la plataforma en la nube de la Fuerza Aérea de EE. UU., y ponen en riesgo datos militares sensibles</title>
+      <link>https://thecurtain.online/es/story/us-air-force-cloud-one-breach/</link>
+      <guid isPermaLink="true">https://thecurtain.online/es/story/us-air-force-cloud-one-breach/</guid>
+      <description>Piratas informáticos han vulnerado Cloud One, la plataforma insignia de computación en la nube de la Fuerza Aérea de Estados Unidos, lo que podría poner en peligro datos sensibles tácticos, de personal y de logística, informó Reuters citando a tres personas familiarizadas con el asunto…</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-27</dc:date>
+    </item>
+    <item>
       <title>El sistema de prestaciones británico se cae tras un ciberincidente en el Departamento de Trabajo y Pensiones</title>
       <link>https://thecurtain.online/es/story/dwp-cyber-incident-benefits-system-offline/</link>
       <guid isPermaLink="true">https://thecurtain.online/es/story/dwp-cyber-incident-benefits-system-offline/</guid>
@@ -157,14 +165,6 @@
       <link>https://thecurtain.online/es/story/chen-jining-shanghai-party-chief-xi-purge-politburo/</link>
       <guid isPermaLink="true">https://thecurtain.online/es/story/chen-jining-shanghai-party-chief-xi-purge-politburo/</guid>
       <description>El jefe del partido en Shanghái, Chen Jining, considerado en su día candidato al máximo liderazgo de China, está bajo investigación por corrupción y se convierte en el cuarto miembro del Politburó que cae en la purga cada vez más amplia de Xi Jinping…</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-25</dc:date>
-    </item>
-    <item>
-      <title>Trump prepara una nueva oleada de aranceles contra dieciséis socios comerciales mientras los antiguos aranceles se enfrentan a los tribunales</title>
-      <link>https://thecurtain.online/es/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</link>
-      <guid isPermaLink="true">https://thecurtain.online/es/story/trump-new-tariffs-section-301-excess-capacity-16-partners/</guid>
-      <description>La Administración Trump está a punto de anunciar nuevos aranceles contra 16 socios comerciales en virtud de una investigación de la Sección 301 sobre el exceso de capacidad industrial, que sustituiría en parte los derechos que el Tribunal Supremo anuló en febrero…</description>
       <dc:creator>Sezgin Baktiaya</dc:creator>
       <dc:date>2026-11-25</dc:date>
     </item>
