@@ -9,6 +9,30 @@
     <ttl>60</ttl>
     <atom:link href="https://thecurtain.online/es/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Arabia Saudí intercepta un misil de crucero hutí dirigido a Riad mientras la guerra transfronteriza se intensifica</title>
+      <link>https://thecurtain.online/es/story/saudi-houthi-missile-exchange-riyadh/</link>
+      <guid isPermaLink="true">https://thecurtain.online/es/story/saudi-houthi-missile-exchange-riyadh/</guid>
+      <description>La defensa antiaérea saudí interceptó el sábado un misil de crucero hutí disparado contra Riad, el tercer día consecutivo de ataques contra la capital. Los medios hutíes afirman que los ataques saudíes mataron a 11 personas en Yemen…</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-28</dc:date>
+    </item>
+    <item>
+      <title>Taiwán vota en elecciones locales mientras los cazas chinos rodean la isla</title>
+      <link>https://thecurtain.online/es/story/taiwan-local-elections-china-pressure/</link>
+      <guid isPermaLink="true">https://thecurtain.online/es/story/taiwan-local-elections-china-pressure/</guid>
+      <description>Los votantes taiwaneses acudieron el sábado a las urnas en elecciones locales en toda la isla, mientras China enviaba 33 aviones de combate hacia Taiwán. Los primeros recuentos apuntan a avances del partido gobernante y a una reñida carrera por Taipéi…</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-28</dc:date>
+    </item>
+    <item>
+      <title>Una explosión junto a una escuela en Kunar, Afganistán, mata a siete alumnos y hiere a casi 100 personas</title>
+      <link>https://thecurtain.online/es/story/afghanistan-kunar-school-blast-students-killed/</link>
+      <guid isPermaLink="true">https://thecurtain.online/es/story/afghanistan-kunar-school-blast-students-killed/</guid>
+      <description>Una explosión junto a una escuela secundaria en Asadabad, capital de la provincia oriental afgana de Kunar, mató el sábado por la mañana a siete alumnos e hirió a casi 100 personas — según las autoridades, detonó dinamita almacenada en una casa vecina, y las cifras son preliminares…</description>
+      <dc:creator>Sezgin Baktiaya</dc:creator>
+      <dc:date>2026-11-28</dc:date>
+    </item>
+    <item>
       <title>Estados Unidos inutiliza un barco que burlaba su bloqueo a Irán mientras Teherán promete romper el embargo “por aire y por mar”</title>
       <link>https://thecurtain.online/es/story/us-disables-ship-pacific-archer-iran-blockade/</link>
       <guid isPermaLink="true">https://thecurtain.online/es/story/us-disables-ship-pacific-archer-iran-blockade/</guid>
@@ -143,30 +167,6 @@
       <description>Wall Street sufrió otra sesión difícil, con el Nasdaq desplomándose hasta un 4,7 % antes de recuperarse, mientras Nvidia caía y los indicadores de miedo se disparaban antes del receso de Acción de Gracias…</description>
       <dc:creator>Sezgin Baktiaya</dc:creator>
       <dc:date>2026-11-26</dc:date>
-    </item>
-    <item>
-      <title>Un camión cisterna explota en la Ring Road de El Cairo: al menos 31 muertos</title>
-      <link>https://thecurtain.online/es/story/cairo-ring-road-fuel-tanker-fire-31-dead/</link>
-      <guid isPermaLink="true">https://thecurtain.online/es/story/cairo-ring-road-fuel-tanker-fire-31-dead/</guid>
-      <description>Un camión cisterna se estrelló y explotó el miércoles por la noche en la Ring Road de El Cairo: al menos 31 muertos y 21 heridos, y el fuego alcanzó a más de dos docenas de vehículos…</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-25</dc:date>
-    </item>
-    <item>
-      <title>Una inundación arrasa una mina de oro ilegal en Indonesia: 9 muertos y 17 mineros atrapados</title>
-      <link>https://thecurtain.online/es/story/indonesia-gold-mine-flood-bogor-9-dead-17-trapped/</link>
-      <guid isPermaLink="true">https://thecurtain.online/es/story/indonesia-gold-mine-flood-bogor-9-dead-17-trapped/</guid>
-      <description>Nueve mineros murieron y otros 17 quedaron atrapados después de que las lluvias inundaran un pozo de 100 metros en una mina de oro sin licencia en Bogor, Indonesia; el rescate empezó 16 horas tarde porque nadie denunció la mina ilegal…</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-25</dc:date>
-    </item>
-    <item>
-      <title>Dos petroleros más arden en el estrecho de Ormuz mientras Irán promete endurecer su control — y Catar se apresura a mantener vivas las conversaciones</title>
-      <link>https://thecurtain.online/es/story/hormuz-tankers-mines-iran-tightens-grip-qatar-talks/</link>
-      <guid isPermaLink="true">https://thecurtain.online/es/story/hormuz-tankers-mines-iran-tightens-grip-qatar-talks/</guid>
-      <description>Dos petroleros más chocaron con minas y se incendiaron el miércoles en el estrecho de Ormuz, mientras Irán prometía endurecer su control sobre la vía fluvial y Catar se apresuraba a mantener vivas las conversaciones entre Estados Unidos e Irán…</description>
-      <dc:creator>Sezgin Baktiaya</dc:creator>
-      <dc:date>2026-11-25</dc:date>
     </item>
   </channel>
 </rss>
