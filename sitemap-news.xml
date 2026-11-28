@@ -1,6 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://thecurtain.online/story/afghanistan-kunar-school-blast-students-killed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>Explosion Beside School in Afghanistan&#x27;s Kunar Kills Seven Students, Injures Nearly 100</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/tr/story/afghanistan-kunar-school-blast-students-killed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>Afganistan&#x27;ın Kunar Vilayetinde Okul Yanında Patlama: 7 Öğrenci Öldü, Yaklaşık 100 Kişi Yaralandı</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/de/story/afghanistan-kunar-school-blast-students-killed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>Explosion neben Schule in Afghanistans Kunar tötet sieben Schüler und verletzt fast 100 Menschen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/es/story/afghanistan-kunar-school-blast-students-killed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>Una explosión junto a una escuela en Kunar, Afganistán, mata a siete alumnos y hiere a casi 100 personas</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://thecurtain.online/de/story/congo-ebola-passes-12000-cases-fighting-disrupts-response/</loc>
     <news:news>
       <news:publication>
@@ -52,7 +96,7 @@
         <news:language>de</news:language>
       </news:publication>
       <news:publication_date>2026-11-27</news:publication_date>
-      <news:title>Trump sagt Truppen, Sieg über den Iran sei 'in Reichweite', während ein tödlicher Drohnenangriff in Kuwait die Krise verschärft</news:title>
+      <news:title>Trump sagt Truppen, Sieg über den Iran sei &#x27;in Reichweite&#x27;, während ein tödlicher Drohnenangriff in Kuwait die Krise verschärft</news:title>
     </news:news>
   </url>
   <url>
@@ -151,7 +195,7 @@
         <news:language>es</news:language>
       </news:publication>
       <news:publication_date>2026-11-27</news:publication_date>
-      <news:title>Trump dice a las tropas que la victoria sobre Irán está 'al alcance de la mano' mientras un mortífero ataque con drones en Kuwait agrava la crisis</news:title>
+      <news:title>Trump dice a las tropas que la victoria sobre Irán está &#x27;al alcance de la mano&#x27; mientras un mortífero ataque con drones en Kuwait agrava la crisis</news:title>
     </news:news>
   </url>
   <url>
@@ -217,7 +261,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-27</news:publication_date>
-      <news:title>Britain's Benefits System Goes Offline as a Cyber Incident Hits the Department for Work and Pensions</news:title>
+      <news:title>Britain&#x27;s Benefits System Goes Offline as a Cyber Incident Hits the Department for Work and Pensions</news:title>
     </news:news>
   </url>
   <url>
@@ -228,7 +272,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-27</news:publication_date>
-      <news:title>Europe Picks Spain's Pablo Hernández de Cos to Steer the Central Bank Through Stormy Waters</news:title>
+      <news:title>Europe Picks Spain&#x27;s Pablo Hernández de Cos to Steer the Central Bank Through Stormy Waters</news:title>
     </news:news>
   </url>
   <url>
@@ -250,7 +294,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-27</news:publication_date>
-      <news:title>Trump Tells Troops Victory Over Iran Is "At Hand" as a Deadly Drone Attack in Kuwait Deepens the Crisis</news:title>
+      <news:title>Trump Tells Troops Victory Over Iran Is &quot;At Hand&quot; as a Deadly Drone Attack in Kuwait Deepens the Crisis</news:title>
     </news:news>
   </url>
   <url>
@@ -272,7 +316,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-27</news:publication_date>
-      <news:title>Hackers Breach the US Air Force's Cloud One Platform, Putting Sensitive Military Data at Risk</news:title>
+      <news:title>Hackers Breach the US Air Force&#x27;s Cloud One Platform, Putting Sensitive Military Data at Risk</news:title>
     </news:news>
   </url>
   <url>
@@ -283,7 +327,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-28</news:publication_date>
-      <news:title>America Disables a Ship Running Its Iran Blockade as Tehran Vows to Break the Embargo "From Air and Sea"</news:title>
+      <news:title>America Disables a Ship Running Its Iran Blockade as Tehran Vows to Break the Embargo &quot;From Air and Sea&quot;</news:title>
     </news:news>
   </url>
   <url>
@@ -294,7 +338,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-28</news:publication_date>
-      <news:title>Zelenskyy Likens Trump's "Friend" Putin to Hitler as Ukraine Peace Talks Hit a Dead End</news:title>
+      <news:title>Zelenskyy Likens Trump&#x27;s &quot;Friend&quot; Putin to Hitler as Ukraine Peace Talks Hit a Dead End</news:title>
     </news:news>
   </url>
   <url>
@@ -305,7 +349,7 @@
         <news:language>tr</news:language>
       </news:publication>
       <news:publication_date>2026-11-27</news:publication_date>
-      <news:title>Kongo'da Ebola 12.000 Vakayı Aştı; Silah Sesleri Sağlık Çalışanlarını Cepheden Uzaklaştırdı</news:title>
+      <news:title>Kongo&#x27;da Ebola 12.000 Vakayı Aştı; Silah Sesleri Sağlık Çalışanlarını Cepheden Uzaklaştırdı</news:title>
     </news:news>
   </url>
   <url>
@@ -316,7 +360,7 @@
         <news:language>tr</news:language>
       </news:publication>
       <news:publication_date>2026-11-27</news:publication_date>
-      <news:title>Siber Olay Çalışma ve Emeklilik Bakanlığını Vurunca İngiltere'nin Yardım Sistemi Çevrimdışı Kaldı</news:title>
+      <news:title>Siber Olay Çalışma ve Emeklilik Bakanlığını Vurunca İngiltere&#x27;nin Yardım Sistemi Çevrimdışı Kaldı</news:title>
     </news:news>
   </url>
   <url>
@@ -327,7 +371,7 @@
         <news:language>tr</news:language>
       </news:publication>
       <news:publication_date>2026-11-27</news:publication_date>
-      <news:title>Avrupa, Merkez Bankasını Fırtınalı Sularda Yönlendirmesi İçin İspanya'dan Pablo Hernández de Cos'u Seçti</news:title>
+      <news:title>Avrupa, Merkez Bankasını Fırtınalı Sularda Yönlendirmesi İçin İspanya&#x27;dan Pablo Hernández de Cos&#x27;u Seçti</news:title>
     </news:news>
   </url>
   <url>
@@ -349,7 +393,7 @@
         <news:language>tr</news:language>
       </news:publication>
       <news:publication_date>2026-11-27</news:publication_date>
-      <news:title>Trump Askerlere İran Karşısında Zaferin 'Yakında' Olduğunu Söyledi; Kuveyt'teki Ölümcül Drone Saldırısı Krizi Derinleştiriyor</news:title>
+      <news:title>Trump Askerlere İran Karşısında Zaferin &#x27;Yakında&#x27; Olduğunu Söyledi; Kuveyt&#x27;teki Ölümcül Drone Saldırısı Krizi Derinleştiriyor</news:title>
     </news:news>
   </url>
   <url>
@@ -360,7 +404,7 @@
         <news:language>tr</news:language>
       </news:publication>
       <news:publication_date>2026-11-27</news:publication_date>
-      <news:title>İngiltere, Soğuk Savaş'tan Bu Yana En Büyük Hazırlık Hamlesinde 100.000 Gaziye Mektup Yazdı</news:title>
+      <news:title>İngiltere, Soğuk Savaş&#x27;tan Bu Yana En Büyük Hazırlık Hamlesinde 100.000 Gaziye Mektup Yazdı</news:title>
     </news:news>
   </url>
   <url>
@@ -371,7 +415,7 @@
         <news:language>tr</news:language>
       </news:publication>
       <news:publication_date>2026-11-27</news:publication_date>
-      <news:title>ABD Hava Kuvvetleri'nin Cloud One Bulut Platformu Hacklendi, Hassas Askeri Veriler Tehlikede</news:title>
+      <news:title>ABD Hava Kuvvetleri&#x27;nin Cloud One Bulut Platformu Hacklendi, Hassas Askeri Veriler Tehlikede</news:title>
     </news:news>
   </url>
   <url>
