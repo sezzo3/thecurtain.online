@@ -34,69 +34,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/de/story/houthi-attack-ras-tanura-refinery/</loc>
+    <loc>https://thecurtain.online/de/story/spain-votes-sunday-sanchez-feijoo-vox/</loc>
     <news:news>
       <news:publication>
         <news:name>The Curtain Official</news:name>
         <news:language>de</news:language>
       </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Huthi-Rebellen greifen Saudi-Arabiens größte Raffinerie Ras Tanura an: Ölpreis steigt um 3,5 %</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/de/story/houthis-strike-jazan-oil-refinery/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>de</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Huthis greifen saudische Jazan-Raffinerie an — ein Toter, zweiter Angriff in zwei Tagen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/de/story/iran-drone-strike-kuwait-two-italians-killed/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>de</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Iranischer Drohnenangriff auf Kuwait tötet zwei italienische Techniker der Luftabwehr</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/de/story/netanyahu-judges-urge-dropping-bribery-case-4000/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>de</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Israelische Richter drängen Staatsanwälte, das Bestechungsverfahren gegen Netanjahu fallen zu lassen — und einen zweiten Fall zu überdenken</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/de/story/poundland-collapses-administration-11000-jobs-risk/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>de</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Poundland geht in Insolvenzverwaltung – 11.000 Arbeitsplätze wenige Wochen vor Weihnachten gefährdet</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/de/story/trump-unveils-new-tariffs-14-partners-section-301/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>de</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Trump kündigt neue Zölle für vierzehn Handelspartner an und baut seine Zollmauer auf soliderer rechtlicher Grundlage wieder auf</news:title>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>Spanien wählt am Sonntag: Sánchez trotzt den Umfragen, die auf eine rechte Mehrheit hindeuten</news:title>
     </news:news>
   </url>
   <url>
@@ -122,17 +67,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/de/story/uk-net-migration-falls-77000-lowest-since-1997/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>de</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Nettozuwanderung in Großbritannien fällt auf 77.000 – niedrigster Stand seit fast drei Jahrzehnten</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/de/story/us-air-force-cloud-one-breach/</loc>
     <news:news>
       <news:publication>
@@ -144,14 +78,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/de/story/wall-street-ai-selloff-nasdaq-plunge-thanksgiving/</loc>
+    <loc>https://thecurtain.online/de/story/us-disables-ship-pacific-archer-iran-blockade/</loc>
     <news:news>
       <news:publication>
         <news:name>The Curtain Official</news:name>
         <news:language>de</news:language>
       </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Ausverkauf bei KI-Aktien an der Wall Street vertieft sich vor Thanksgiving, während Nvidia fällt und die Angst steigt</news:title>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>Amerika stoppt Schiff, das die Iran-Blockade durchbrechen wollte, während Teheran droht, das Embargo “aus der Luft und vom Meer” zu brechen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/de/story/zelenskyy-rebukes-trump-friend-putin-peace-talks-stuck/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>Selenskyj vergleicht Trumps „Freund“ Putin mit Hitler, während die Ukraine-Friedensgespräche in einer Sackgasse stecken</news:title>
     </news:news>
   </url>
   <url>
@@ -188,69 +133,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/es/story/houthi-attack-ras-tanura-refinery/</loc>
+    <loc>https://thecurtain.online/es/story/spain-votes-sunday-sanchez-feijoo-vox/</loc>
     <news:news>
       <news:publication>
         <news:name>The Curtain Official</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Los hutíes atacan la mayor refinería de Arabia Saudí, Ras Tanura, y el petróleo sube un 3,5 %</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/es/story/houthis-strike-jazan-oil-refinery/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Los hutíes atacan la refinería de Jazan en Arabia Saudí, un trabajador muerto, segundo ataque en dos días</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/es/story/iran-drone-strike-kuwait-two-italians-killed/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Ataque con drones de Irán en Kuwait mata a dos técnicos italianos de defensa antiaérea</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/es/story/netanyahu-judges-urge-dropping-bribery-case-4000/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Los jueces israelíes instan a los fiscales a retirar el caso de soborno contra Netanyahu, y a reconsiderar un segundo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/es/story/poundland-collapses-administration-11000-jobs-risk/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Poundland entra en concurso de acreedores y pone en riesgo 11.000 empleos a pocas semanas de Navidad</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/es/story/trump-unveils-new-tariffs-14-partners-section-301/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Trump anuncia nuevos aranceles para catorce socios comerciales y reconstruye su muro arancelario sobre bases jurídicas más firmes</news:title>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>España vota el domingo con Sánchez desafiante mientras las encuestas apuntan a una mayoría de derechas</news:title>
     </news:news>
   </url>
   <url>
@@ -276,17 +166,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/es/story/uk-net-migration-falls-77000-lowest-since-1997/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>La migración neta del Reino Unido cae a 77.000, su nivel más bajo en casi tres décadas</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/es/story/us-air-force-cloud-one-breach/</loc>
     <news:news>
       <news:publication>
@@ -298,14 +177,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/es/story/wall-street-ai-selloff-nasdaq-plunge-thanksgiving/</loc>
+    <loc>https://thecurtain.online/es/story/us-disables-ship-pacific-archer-iran-blockade/</loc>
     <news:news>
       <news:publication>
         <news:name>The Curtain Official</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>La venta masiva de acciones de IA en Wall Street se agrava antes de Acción de Gracias: Nvidia cae y el miedo se dispara</news:title>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>Estados Unidos inutiliza un barco que burlaba su bloqueo a Irán mientras Teherán promete romper el embargo “por aire y por mar”</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/es/story/zelenskyy-rebukes-trump-friend-putin-peace-talks-stuck/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>Zelenski compara al “amigo” Putin de Trump con Hitler mientras las conversaciones de paz sobre Ucrania se estancan</news:title>
     </news:news>
   </url>
   <url>
@@ -342,69 +232,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/story/houthi-attack-ras-tanura-refinery/</loc>
+    <loc>https://thecurtain.online/story/spain-votes-sunday-sanchez-feijoo-vox/</loc>
     <news:news>
       <news:publication>
         <news:name>The Curtain Official</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Houthis Attack Saudi Arabia's Largest Refinery, Ras Tanura, as Oil Prices Jump</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/houthis-strike-jazan-oil-refinery/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Houthis Hit Saudi Arabia's Jazan Refinery, Killing One Worker, in Second Strike in Two Days</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/iran-drone-strike-kuwait-two-italians-killed/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Iranian Drone Attack on Kuwait Kills Two Italian Technicians Maintaining Air-Defence Radar</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/netanyahu-judges-urge-dropping-bribery-case-4000/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Israeli Judges Urge Prosecutors to Drop the Bribery Case Against Netanyahu — and Rethink a Second</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/poundland-collapses-administration-11000-jobs-risk/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Poundland Collapses Into Administration, Putting 11,000 Jobs at Risk Weeks Before Christmas</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/story/trump-unveils-new-tariffs-14-partners-section-301/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Trump Unveils New Tariffs on Fourteen Trading Partners, Rebuilding His Trade Wall on Firmer Legal Ground</news:title>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>Spain Votes on Sunday With Sánchez Defiant as Polls Point to a Right-Wing Majority</news:title>
     </news:news>
   </url>
   <url>
@@ -430,17 +265,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/story/uk-net-migration-falls-77000-lowest-since-1997/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>UK Net Migration Falls to 77,000, Its Lowest Level in Almost Three Decades</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/story/us-air-force-cloud-one-breach/</loc>
     <news:news>
       <news:publication>
@@ -452,14 +276,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/story/wall-street-ai-selloff-nasdaq-plunge-thanksgiving/</loc>
+    <loc>https://thecurtain.online/story/us-disables-ship-pacific-archer-iran-blockade/</loc>
     <news:news>
       <news:publication>
         <news:name>The Curtain Official</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Wall Street's AI Sell-Off Deepens Before Thanksgiving as Nvidia Slides and Fear Spikes</news:title>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>America Disables a Ship Running Its Iran Blockade as Tehran Vows to Break the Embargo "From Air and Sea"</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/story/zelenskyy-rebukes-trump-friend-putin-peace-talks-stuck/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>Zelenskyy Likens Trump's "Friend" Putin to Hitler as Ukraine Peace Talks Hit a Dead End</news:title>
     </news:news>
   </url>
   <url>
@@ -496,69 +331,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/tr/story/houthi-attack-ras-tanura-refinery/</loc>
+    <loc>https://thecurtain.online/tr/story/spain-votes-sunday-sanchez-feijoo-vox/</loc>
     <news:news>
       <news:publication>
         <news:name>The Curtain Official</news:name>
         <news:language>tr</news:language>
       </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Husiler, Suudi Arabistan'ın En Büyük Rafinerisi Ras Tanura'yı Vurdu: Petrol %3,5 Yükseldi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/tr/story/houthis-strike-jazan-oil-refinery/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Husiler Cazan Petrol Rafinerisini Vurdu, Bir İşçi Öldü — İki Günde İkinci Saldırı</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/tr/story/iran-drone-strike-kuwait-two-italians-killed/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>İran'ın Kuveyt'e Drone Saldırısında İki İtalyan Teknisyen Öldü</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/tr/story/netanyahu-judges-urge-dropping-bribery-case-4000/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>İsrail Yargıçları Savcılara Netanyahu'ya Karşı Rüşvet Davasını Düşürmelerini İstedi — ve İkinci Bir Davayı da Yeniden Düşünmelerini</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/tr/story/poundland-collapses-administration-11000-jobs-risk/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Poundland İflas Korumasına Girdi, Noel'den Birkaç Hafta Önce 11.000 İş Tehlikede</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://thecurtain.online/tr/story/trump-unveils-new-tariffs-14-partners-section-301/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Trump On Dört Ticaret Ortağına Yeni Tarifeler Açıkladı, Ticaret Duvarını Daha Sağlam Bir Hukuki Zeminde Yeniden İnşa Ediyor</news:title>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>İspanya Pazar Günü Sandığa Gidiyor: Sánchez Meydan Okurken Anketler Sağ Çoğunluğa İşaret Ediyor</news:title>
     </news:news>
   </url>
   <url>
@@ -584,17 +364,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/tr/story/uk-net-migration-falls-77000-lowest-since-1997/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Curtain Official</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>İngiltere'de Net Göç 77.000'e Düştü, Neredeyse Otuz Yılın En Düşük Seviyesinde</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://thecurtain.online/tr/story/us-air-force-cloud-one-breach/</loc>
     <news:news>
       <news:publication>
@@ -606,14 +375,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://thecurtain.online/tr/story/wall-street-ai-selloff-nasdaq-plunge-thanksgiving/</loc>
+    <loc>https://thecurtain.online/tr/story/us-disables-ship-pacific-archer-iran-blockade/</loc>
     <news:news>
       <news:publication>
         <news:name>The Curtain Official</news:name>
         <news:language>tr</news:language>
       </news:publication>
-      <news:publication_date>2026-11-26</news:publication_date>
-      <news:title>Wall Street'te Yapay Zekâ Satışı Şükran Günü Öncesinde Derinleşti: Nvidia Düştü, Korku Arttı</news:title>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>Amerika, İran Ablukasını Delen Gemiyi Durdurdu; Tahran Ambargoyu “Havadan ve Denizden” Kırmaya Yemin Etti</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thecurtain.online/tr/story/zelenskyy-rebukes-trump-friend-putin-peace-talks-stuck/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Curtain Official</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28</news:publication_date>
+      <news:title>Zelenski, Trump’ın “Dostu” Putin’i Hitler’e Benzetti; Ukrayna Barış Görüşmeleri Çıkmaza Girdi</news:title>
     </news:news>
   </url>
 </urlset>
